@@ -1,0 +1,23 @@
+<div id="page" class="article">
+	
+  {% assign post = page %}
+  {% include post.html %}
+  
+  {% if page.next %}
+  <div class="prev-next">
+    <a href="{{ site.baseurl }}{{ page.next.url }}" class="next" title="{{ page.next.title }}">{{page.next.title}} &rarr;</a>
+  {% endif %}
+  {% if page.previous %}
+    <a href="{{ site.baseurl}}{{ page.previous.url }}" class="prev" title="{{ page.previous.title }}">&larr; {{ page.previous.title }}</a>
+  {% endif %}
+  </div>
+  <div class="clearer"> </div>
+
+<div class="post-sharing">
+ {% include JB/sharing %}
+</div>
+
+{% include JB/comments %}
+  
+</div><!-- End Page -->
+

@@ -1,0 +1,43 @@
+---
+title: UA Interdisciplinary Computational Intelligence Seminar
+top: 
+layout: home 
+---
+<h1>Welcome</h1>
+<p>
+The interdisciplinary computational intelligence seminar is a weekly seminar in the <a href="sista.arizona.edu">School of Information Sciences and Arts</a>.  Each week we will discuss papers and share our original research in areas including computer vision, visualization, machine learning, AI, and natural language processing. </a></p>
+
+<p><strong>Unless otherwise noted, all seminars are held in GS 906.</strong> For more information <a href="{{site.baseurl}}/contact.html">contact the seminar coordinator</a>. </p>
+
+<h2>Upcoming Seminars</h2>
+<p>
+For past seminars, check the <a href="{{site.baseurl}}/archive.html">archives</a>.</p>
+<ul class="firehose-post article">
+{% for post in site.posts reversed %}
+    {% capture today_string %}{{ site.time | date: "%Y%m%d" }}{% endcapture %}
+    {% capture date_string %}{{ post.date | date: "%Y%m%d" }}{% endcapture %}
+
+{% if date_string >= today_string %}
+    {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+    {% capture this_month %}{{ post.date | date: "%B" }}{% endcapture %}
+    {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
+    {% capture next_month %}{{ post.previous.date | date: "%B" }}{% endcapture %}
+    {% assign link_title = true %}
+      <li class="title">
+      <a class="title-link" href="{{ site.baseurl }}{{post.url}}">
+        {{ post.title }}</a>{% if post.author %},
+      <span class='author'>by {{post.author}}</span>
+{% endif  %}
+      </li>
+{% if post.presenter %}
+      <div class="presenter">Presented by {{post.presenter}}</div>
+{% endif %}
+{% if post.room%}
+      <div class="room">Room: {{post.room}}</div>
+{% endif %}
+      <div class="date emphnext">{{ post.date | date: "%B %d, %Y" }}</div>
+{{datestring}}
+{% endif %}
+{% endfor %}
+</ul>
+

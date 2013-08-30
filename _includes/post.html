@@ -1,0 +1,36 @@
+{% if excerpt %}
+  <a class="title-link" href="{{ site.baseurl }}{{post.url}}">
+  <h1 class="title">{{ post.title }}</h1>
+  </a>
+{% else %}
+  <h1 class="title">{{ post.title }}</h1>
+{% endif %}
+{% if post.presenter %}
+  <div class="author">{{ post.author}}</div>
+  <div class="presenter">Presented by {{ post.presenter }}</div>
+{% endif %}
+  <div class="date emphnext">{{ post.date | date: "%B %d, %Y" }}</div>
+    {% if page.edit %}
+    <div class="edit-disclosure">
+    {{page.edit}}
+    </div>
+    {% endif %}
+
+
+  {% if excerpt and post.excerpt %}
+    {{ post.excerpt }}
+    <p> <a href="{{ site.baseurl }}{{ post.url }}/#more" class="more-link"><span class="readmore">more...</span></a></p>
+  {% else %}
+    {{ content | mark_excerpt }}
+      <address class="signature">
+        Posted by
+        <a class="author" href="{{ HOME_PATH }}">
+  {% if post.posted_by %}
+{{ post.posted_by }}
+  {% else %}
+{{ site.author.name }}
+  {% endif %}
+</a> 
+      </address>
+  {% endif %}
+
