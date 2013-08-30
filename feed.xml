@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>UA Interdisciplinary Computational Intelligence Seminar</title>
+		<description></description>
+		<link>http://kobus.ca/seminars/ici</link>
+		<atom:link href="http://kobus.ca/seminars/ici/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>TBD (Vision / Machine Learning)</title>
+				<description>&lt;p&gt;Kyle will present on the topic of vision and/or machine learning.&lt;/p&gt;
+</description>
+				<pubDate>Fri, 13 Dec 2013 00:00:00 -0700</pubDate>
+				<link>http://kobus.ca/seminars/ici/2013/12/13/seminar</link>
+				<guid isPermaLink="true">http://kobus.ca/seminars/ici/2013/12/13/seminar</guid>
+			</item>
+		
+			<item>
+				<title>TBD (Stereo Vision?)</title>
+				<description>&lt;p&gt;Qiyam will present on the topic of stereo vision.&lt;/p&gt;
+</description>
+				<pubDate>Fri, 06 Dec 2013 00:00:00 -0700</pubDate>
+				<link>http://kobus.ca/seminars/ici/2013/12/06/seminar</link>
+				<guid isPermaLink="true">http://kobus.ca/seminars/ici/2013/12/06/seminar</guid>
+			</item>
+		
+			<item>
+				<title>TBD (Vision / Machine Learning)</title>
+				<description>&lt;p&gt;Liu will present on the topic of vision and/or machine learning.&lt;/p&gt;
+</description>
+				<pubDate>Fri, 22 Nov 2013 00:00:00 -0700</pubDate>
+				<link>http://kobus.ca/seminars/ici/2013/11/22/seminar</link>
+				<guid isPermaLink="true">http://kobus.ca/seminars/ici/2013/11/22/seminar</guid>
+			</item>
+		
+			<item>
+				<title>TBD (Vision / Machine Learning)</title>
+				<description>&lt;p&gt;Andrew will present on the topic of vision and/or machine learning.&lt;/p&gt;
+</description>
+				<pubDate>Fri, 15 Nov 2013 00:00:00 -0700</pubDate>
+				<link>http://kobus.ca/seminars/ici/2013/11/15/seminar</link>
+				<guid isPermaLink="true">http://kobus.ca/seminars/ici/2013/11/15/seminar</guid>
+			</item>
+		
+			<item>
+				<title>TBD (Vision / Machine Learning)</title>
+				<description>&lt;p&gt;Kate will present on the topic of vision and/or machine learning.&lt;/p&gt;
+</description>
+				<pubDate>Fri, 08 Nov 2013 00:00:00 -0700</pubDate>
+				<link>http://kobus.ca/seminars/ici/2013/11/08/seminar</link>
+				<guid isPermaLink="true">http://kobus.ca/seminars/ici/2013/11/08/seminar</guid>
+			</item>
+		
+			<item>
+				<title>NO SEMINAR</title>
+				<description>&lt;p&gt;Due to the CVPR deadline, there will be no seminar this week.&lt;/p&gt;
+</description>
+				<pubDate>Fri, 01 Nov 2013 00:00:00 -0700</pubDate>
+				<link>http://kobus.ca/seminars/ici/2013/11/01/seminar</link>
+				<guid isPermaLink="true">http://kobus.ca/seminars/ici/2013/11/01/seminar</guid>
+			</item>
+		
+			<item>
+				<title>TBD (Visualization)</title>
+				<description>&lt;p&gt;Angus will present on the topic of visualization.&lt;/p&gt;
+</description>
+				<pubDate>Fri, 25 Oct 2013 00:00:00 -0700</pubDate>
+				<link>http://kobus.ca/seminars/ici/2013/10/25/seminar</link>
+				<guid isPermaLink="true">http://kobus.ca/seminars/ici/2013/10/25/seminar</guid>
+			</item>
+		
+			<item>
+				<title>TBD (Scenes and Captions)</title>
+				<description>&lt;p&gt;Clay will present recent work on inferring captions for scenes.&lt;/p&gt;
+</description>
+				<pubDate>Fri, 18 Oct 2013 00:00:00 -0700</pubDate>
+				<link>http://kobus.ca/seminars/ici/2013/10/18/seminar</link>
+				<guid isPermaLink="true">http://kobus.ca/seminars/ici/2013/10/18/seminar</guid>
+			</item>
+		
+			<item>
+				<title>TBD (Scenes and Captions)</title>
+				<description>&lt;p&gt;Colin will present his recent work on inferring captions for scenes.&lt;/p&gt;
+</description>
+				<pubDate>Fri, 11 Oct 2013 00:00:00 -0700</pubDate>
+				<link>http://kobus.ca/seminars/ici/2013/10/11/seminar</link>
+				<guid isPermaLink="true">http://kobus.ca/seminars/ici/2013/10/11/seminar</guid>
+			</item>
+		
+			<item>
+				<title>TBD (Natural Language Processing)</title>
+				<description>&lt;p&gt;Peter will present some recent work on NLP.&lt;/p&gt;
+</description>
+				<pubDate>Fri, 04 Oct 2013 00:00:00 -0700</pubDate>
+				<link>http://kobus.ca/seminars/ici/2013/10/04/seminar</link>
+				<guid isPermaLink="true">http://kobus.ca/seminars/ici/2013/10/04/seminar</guid>
+			</item>
+		
+	</channel>
+</rss>
