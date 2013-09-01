@@ -16,6 +16,15 @@
     </div>
     {% endif %}
 
+  {% if post.abstract %}
+  <h1>Abstract</h1>
+  <p class="abstract">
+    {{post.abstract}}
+    <br/>
+    <a href="{{post.reference_url}}">Reference link</a>
+  </p>
+{% endif %}
+
 
   {% if excerpt and post.excerpt %}
     {{ post.excerpt }}
