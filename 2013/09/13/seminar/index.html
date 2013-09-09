@@ -5,7 +5,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
 <head>
    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-   <title>TBD (Tracking) </title>
+   <title>Bayesian 3D tracking from monocular video </title>
    <meta name="author" content="ICI Seminar Group" />
 
    <link rel="start" href="/seminars/ici/" />
@@ -64,20 +64,28 @@
 	
   
   
-  <h1 class="title">TBD (Tracking)</h1>
+  <h1 class="title">Bayesian 3D tracking from monocular video</h1>
 
 
-  <div class="author"></div>
+  <div class="author">Ernesto Brau</div>
   <div class="presenter">Presented by Ernesto Brau</div>
 
   <div class="date emphnext">September 13, 2013</div>
     
 
   
+  <h1>Abstract</h1>
+  <p class="abstract">
+    We develop a Bayesian modeling approach for tracking people in 3D from monocular video with unknown cameras. Modeling in 3D provides natural explanations for occlusions and smoothness discontinuities that result from projection, and allows priors on velocity and smoothness to be grounded in physical quantities: meters and seconds vs. pixels and frames. We pose the problem in the context of data association, in which observations are assigned to tracks. A correct application of Bayesian inference to multitarget tracking must address the fact that the model’s dimension changes as tracks are added or removed, and thus, posterior densities of different hypotheses are not comparable. We address this by marginalizing out the trajectory parameters so the resulting posterior over data associations has constant dimension. This is made tractable by using (a) Gaussian process priors for smooth trajectories and (b) approximately Gaussian likelihood functions. Our approach provides a principled method for incorporating multiple sources of evidence; we present results using both optical ﬂow and object detector outputs. Results are comparable to recent work on 3D tracking and unlike competitors, ours requires no pre-calibrated cameras.
+    
+  </p>
+
 
 
   
-    <p>Ernesto will present his work on Bayesian multiple-target tracking.</p>
+    <h1>Agenda</h1>
+
+<p>Ernesto will present his recently accepted ICCV 2013 paper.</p>
 
       <address class="signature">
         Posted by

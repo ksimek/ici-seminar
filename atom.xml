@@ -4,7 +4,7 @@
  <title>UA Interdisciplinary Computational Intelligence Seminar</title>
  <link href="http://kobus.ca/seminars/ici/atom.xml" rel="self"/>
  <link href="http://kobus.ca/seminars/ici"/>
- <updated>2013-08-31T17:52:54-07:00</updated>
+ <updated>2013-09-09T11:17:36-07:00</updated>
  <id>http://kobus.ca/seminars/ici</id>
  <author>
    <name>ICI Seminar Group</name>
@@ -121,11 +121,13 @@
  </entry>
  
  <entry>
-   <title>TBD (Tracking)</title>
+   <title>Bayesian 3D tracking from monocular video</title>
    <link href="http://kobus.ca/seminars/ici/2013/09/13/seminar"/>
    <updated>2013-09-13T00:00:00-07:00</updated>
    <id>http://kobus.ca/seminars/ici/2013/09/13/seminar</id>
-   <content type="html">&lt;p&gt;Ernesto will present his work on Bayesian multiple-target tracking.&lt;/p&gt;
+   <content type="html">&lt;h1&gt;Agenda&lt;/h1&gt;
+
+&lt;p&gt;Ernesto will present his recently accepted ICCV 2013 paper.&lt;/p&gt;
 </content>
  </entry>
  
