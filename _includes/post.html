@@ -20,8 +20,10 @@
   <h1>Abstract</h1>
   <p class="abstract">
     {{post.abstract}}
+    {% if post.reference_url%}
     <br/>
     <a href="{{post.reference_url}}">Reference link</a>
+    {% endif %}
   </p>
 {% endif %}
 
