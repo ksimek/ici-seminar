@@ -4,7 +4,7 @@
  <title>UA Interdisciplinary Computational Intelligence Seminar</title>
  <link href="http://kobus.ca/seminars/ici/atom.xml" rel="self"/>
  <link href="http://kobus.ca/seminars/ici"/>
- <updated>2013-09-09T11:17:36-07:00</updated>
+ <updated>2013-09-16T10:05:54-07:00</updated>
  <id>http://kobus.ca/seminars/ici</id>
  <author>
    <name>ICI Seminar Group</name>
@@ -112,11 +112,17 @@
  </entry>
  
  <entry>
-   <title>"Natural Language Processing for Dummies"</title>
+   <title>Convolution Kernels for Natural Language</title>
    <link href="http://kobus.ca/seminars/ici/2013/09/20/seminar"/>
    <updated>2013-09-20T00:00:00-07:00</updated>
    <id>http://kobus.ca/seminars/ici/2013/09/20/seminar</id>
-   <content type="html">&lt;p&gt;Mihai will provide an introduction to NLP.&lt;/p&gt;
+   <content type="html">&lt;h1&gt;Agenda&lt;/h1&gt;
+
+&lt;p&gt;Mihai will present this seminal paper on convolutional kernels in natural language processing from NIPS 2001.&lt;/p&gt;
+
+&lt;p&gt;Time permitting, we will also cover another paper on convolutional kernels from EMNLP 2009:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.surdeanu.info/mihai/teaching/ista555-fall13/readings/nguyen2009.pdf&quot;&gt;http://www.surdeanu.info/mihai/teaching/ista555-fall13/readings/nguyen2009.pdf&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
