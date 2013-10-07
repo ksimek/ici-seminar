@@ -4,7 +4,7 @@
  <title>UA Interdisciplinary Computational Intelligence Seminar</title>
  <link href="http://kobus.ca/seminars/ici/atom.xml" rel="self"/>
  <link href="http://kobus.ca/seminars/ici"/>
- <updated>2013-09-27T15:15:35-07:00</updated>
+ <updated>2013-10-07T11:11:15-07:00</updated>
  <id>http://kobus.ca/seminars/ici</id>
  <author>
    <name>ICI Seminar Group</name>
@@ -94,7 +94,7 @@
  </entry>
  
  <entry>
-   <title>TBD (Natural Language Processing)</title>
+   <title>Discourse-aware Non-factoid Question Answering: Discourse Markers, Parsing, and Domain Transfer</title>
    <link href="http://kobus.ca/seminars/ici/2013/10/04/seminar"/>
    <updated>2013-10-04T00:00:00-07:00</updated>
    <id>http://kobus.ca/seminars/ici/2013/10/04/seminar</id>
