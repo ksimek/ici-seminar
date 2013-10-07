@@ -4,7 +4,7 @@
  <title>UA Interdisciplinary Computational Intelligence Seminar</title>
  <link href="http://kobus.ca/seminars/ici/atom.xml" rel="self"/>
  <link href="http://kobus.ca/seminars/ici"/>
- <updated>2013-10-07T14:06:14-07:00</updated>
+ <updated>2013-10-07T14:06:54-07:00</updated>
  <id>http://kobus.ca/seminars/ici</id>
  <author>
    <name>ICI Seminar Group</name>
@@ -95,12 +95,12 @@
 
 &lt;p&gt;This work is still in development, but Colin has provided two sources that provide some background.  The first is his previous paper from ICDL 2013:&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;{site.base_url}/docs/ICDL2013.pdf&quot;&gt;A generative probabilistic framework for learning
+&lt;p&gt;&lt;a href=&quot;/seminars/ici/docs/ICDL2013.pdf&quot;&gt;A generative probabilistic framework for learning
 spatial language &lt;/a&gt;. Colin R. Dawson, Jeremy Wright, Antons Rebguns, Marco Valenzuela Escarcega, Daniel Fried and Paul R. Cohen.&lt;/p&gt;
 
 &lt;p&gt;The second is a related paper on probabilistic parsing by Michael Collins.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;{site.base_url}/docs/Three_Generative_Lexicalized_Models_for_Statistical_Parsing.ps&quot;&gt;Three Generative, Lexicalised Models for Statistical Parsing&lt;/a&gt;. Michael Collins.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/seminars/ici/docs/Three_Generative_Lexicalized_Models_for_Statistical_Parsing.ps&quot;&gt;Three Generative, Lexicalised Models for Statistical Parsing&lt;/a&gt;. Michael Collins.&lt;/p&gt;
 </content>
  </entry>
  
