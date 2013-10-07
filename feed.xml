@@ -79,8 +79,19 @@
 			</item>
 		
 			<item>
-				<title>TBD (Scenes and Captions)</title>
+				<title>Joint Bayesian inference of language and scene structure from captioned images</title>
 				<description>&lt;p&gt;Colin will present his recent work on inferring captions for scenes.&lt;/p&gt;
+
+&lt;h2&gt;References&lt;/h2&gt;
+
+&lt;p&gt;This work is still in development, but Colin has provided two sources that provide some background.  The first is his previous paper from ICDL 2013:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/docs/ICDL2013.pdf&quot;&gt;A generative probabilistic framework for learning
+spatial language &lt;/a&gt;. Colin R. Dawson, Jeremy Wright, Antons Rebguns, Marco Valenzuela Escarcega, Daniel Fried and Paul R. Cohen.&lt;/p&gt;
+
+&lt;p&gt;The second is a related paper on probabilistic parsing by Michael Collins.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/docs/Three_Generative_Lexicalized_Models_for_Statistical_Parsing.ps&quot;&gt;Three Generative, Lexicalised Models for Statistical Parsing&lt;/a&gt;. Michael Collins.&lt;/p&gt;
 </description>
 				<pubDate>Fri, 11 Oct 2013 00:00:00 -0700</pubDate>
 				<link>http://kobus.ca/seminars/ici/2013/10/11/seminar</link>
