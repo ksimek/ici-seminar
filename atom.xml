@@ -4,7 +4,7 @@
  <title>UA Interdisciplinary Computational Intelligence Seminar</title>
  <link href="http://kobus.ca/seminars/ici/atom.xml" rel="self"/>
  <link href="http://kobus.ca/seminars/ici"/>
- <updated>2013-10-07T14:07:54-07:00</updated>
+ <updated>2013-10-14T11:05:55-07:00</updated>
  <id>http://kobus.ca/seminars/ici</id>
  <author>
    <name>ICI Seminar Group</name>
@@ -76,11 +76,11 @@
  </entry>
  
  <entry>
-   <title>TBD (Scenes and Captions)</title>
+   <title>An Introduction to Conditional Random Fields</title>
    <link href="http://kobus.ca/seminars/ici/2013/10/18/seminar"/>
    <updated>2013-10-18T00:00:00-07:00</updated>
    <id>http://kobus.ca/seminars/ici/2013/10/18/seminar</id>
-   <content type="html">&lt;p&gt;Clay will present recent work on inferring captions for scenes.&lt;/p&gt;
+   <content type="html">&lt;p&gt;Clay will present this seminal paper on structured learning and prediction using conditional random fields.&lt;/p&gt;
 </content>
  </entry>
  
