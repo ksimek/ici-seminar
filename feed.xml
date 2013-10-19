@@ -72,6 +72,34 @@
 			<item>
 				<title>An Introduction to Conditional Random Fields</title>
 				<description>&lt;p&gt;Clay will present this seminal paper on structured learning and prediction using conditional random fields.&lt;/p&gt;
+
+&lt;h2&gt;Supplemental Material&lt;/h2&gt;
+
+&lt;p&gt;After the talk, Clay provided the following supplemental material and comments.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;/seminars/ici/docs/CRFs-overview-release.pptx&quot;&gt;Lecture Slides&lt;/a&gt; (ppt)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://homepages.inf.ed.ac.uk/csutton/publications/crftut-fnt.pdf&quot;&gt;An Introduction to Conditional Random Fields. Charles Sutton, Andrew McCallum. Foundations and Trends in Machine Learning 4 (4). 2012.&lt;/a&gt; (pdf)  The paper I focused on. &lt;em&gt;(Same as &quot;Reference link&quot; above)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://repository.upenn.edu/cgi/viewcontent.cgi?article=1011&amp;amp;context=cis_reports&quot;&gt;Hanna M. Wallach (2004). “Conditional Random Fields: An Introduction.” Technical Report MS-CIS-04-21.  Department of Computer and Information Science, University of Pennsylvania.&lt;/a&gt; Easy to follow, provides high-level intuition.  Presents CRFs as undirected graphical models (as opposed to undirected factor graphs).&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://homepages.inf.ed.ac.uk/csutton/publications/crf-tutorial.pdf&quot;&gt;Charles Sutton and Andrew McCallum (2006). “An Introduction to Conditional Random Fields for Relational Learning.”  In Introduction to Statistical Relational Learning.  Edited by Lise Getoor and Ben Taskar.  MIT Press, 2006&lt;/a&gt;.  (pdf) Shorter version of paper I presented (the beginning of...)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.it.iitb.ac.in/~grahul/main.pdf&quot;&gt;Rahul Gupta (2006).  “Conditional Random Fields.”  Unpublished report, IIT Bombay.&lt;/a&gt;.  (pdf) Provides detailed derivation of the important equations for CRFs&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.iro.umontreal.ca/~memisevr/pubs/sdl.pdf&quot;&gt;Roland Memisevic (2006).  “An Introduction to Structured Discriminative Learning.”  Technical Report, University of Toronto.&lt;/a&gt;. (pdf) Places CRFs in the context of other methods for learning to predict complex outputs, esp. SVM-inspired large-margin methods.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://cseweb.ucsd.edu/users/elkan/250B/loglinearCRFs.pdf&quot;&gt;Charles Elkan (2013). “Log-linear models and CRFs”&lt;/a&gt; (pdf)&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Software&lt;/h2&gt;
+
+&lt;p&gt;Below are links to the CRF software libraries mentioned in the paper.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;CRF++&lt;/strong&gt; -  &lt;a href=&quot;http://crfpp.sourceforge.net&quot;&gt;http://crfpp.sourceforge.net&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;MALLET&lt;/strong&gt; - &lt;a href=&quot;http://mallet.cs.umass.edu&quot;&gt;http://mallet.cs.umass.edu&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;GRMM&lt;/strong&gt; - &lt;a href=&quot;http://mallet.cs.umass.edu/grmm&quot;&gt;http://mallet.cs.umass.edu/grmm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CRFSuite&lt;/strong&gt; - &lt;a href=&quot;http://www.chokkan.org/software/crfsuite&quot;&gt;http://www.chokkan.org/software/crfsuite&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;FACTORIE&lt;/strong&gt; - &lt;a href=&quot;http://factorie.cs.umass.edu&quot;&gt;http://factorie.cs.umass.edu&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
 </description>
 				<pubDate>Fri, 18 Oct 2013 00:00:00 -0700</pubDate>
 				<link>http://kobus.ca/seminars/ici/2013/10/18/seminar</link>

@@ -77,16 +77,45 @@
   <h1>Abstract</h1>
   <p class="abstract">
     Often we wish to predict a large number of variables that depend on each other as well as on other observed variables. Structured prediction methods are essentially a combination of classification and graphical modeling, combining the ability of graphical models to compactly model multivariate data with the ability of classification methods to perform prediction using large sets of input features. This tutorial describes conditional random fields, a popular probabilistic method for structured prediction. CRFs have seen wide application in natural language processing, computer vision, and bioinformatics. We describe methods for inference and parameter estimation for CRFs, including practical issues for implementing large scale CRFs. We do not assume previous knowledge of graphical modeling, so this tutorial is intended to be useful to practitioners in a wide variety of fields.
-    
-    <br/>
-    <a href="http://arxiv.org/pdf/1011.4088v1.pdf">Reference link</a>
-    
   </p>
+    
+    <p>
+    <strong>Download:</strong> <a href="http://arxiv.org/pdf/1011.4088v1.pdf">Reference link</a>
+    </p>
+    
 
 
 
   
     <p>Clay will present this seminal paper on structured learning and prediction using conditional random fields.</p>
+
+<h2>Supplemental Material</h2>
+
+<p>After the talk, Clay provided the following supplemental material and comments.</p>
+
+<ul>
+<li><a href="/seminars/ici/docs/CRFs-overview-release.pptx">Lecture Slides</a> (ppt)</li>
+<li><a href="http://homepages.inf.ed.ac.uk/csutton/publications/crftut-fnt.pdf">An Introduction to Conditional Random Fields. Charles Sutton, Andrew McCallum. Foundations and Trends in Machine Learning 4 (4). 2012.</a> (pdf)  The paper I focused on. <em>(Same as "Reference link" above)</em></li>
+<li><a href="http://repository.upenn.edu/cgi/viewcontent.cgi?article=1011&amp;context=cis_reports">Hanna M. Wallach (2004). “Conditional Random Fields: An Introduction.” Technical Report MS-CIS-04-21.  Department of Computer and Information Science, University of Pennsylvania.</a> Easy to follow, provides high-level intuition.  Presents CRFs as undirected graphical models (as opposed to undirected factor graphs).</li>
+<li><a href="http://homepages.inf.ed.ac.uk/csutton/publications/crf-tutorial.pdf">Charles Sutton and Andrew McCallum (2006). “An Introduction to Conditional Random Fields for Relational Learning.”  In Introduction to Statistical Relational Learning.  Edited by Lise Getoor and Ben Taskar.  MIT Press, 2006</a>.  (pdf) Shorter version of paper I presented (the beginning of...)</li>
+<li><a href="http://www.it.iitb.ac.in/~grahul/main.pdf">Rahul Gupta (2006).  “Conditional Random Fields.”  Unpublished report, IIT Bombay.</a>.  (pdf) Provides detailed derivation of the important equations for CRFs</li>
+<li><a href="http://www.iro.umontreal.ca/~memisevr/pubs/sdl.pdf">Roland Memisevic (2006).  “An Introduction to Structured Discriminative Learning.”  Technical Report, University of Toronto.</a>. (pdf) Places CRFs in the context of other methods for learning to predict complex outputs, esp. SVM-inspired large-margin methods.</li>
+<li><a href="http://cseweb.ucsd.edu/users/elkan/250B/loglinearCRFs.pdf">Charles Elkan (2013). “Log-linear models and CRFs”</a> (pdf)</li>
+</ul>
+
+
+<h2>Software</h2>
+
+<p>Below are links to the CRF software libraries mentioned in the paper.</p>
+
+<ul>
+<li><strong>CRF++</strong> -  <a href="http://crfpp.sourceforge.net">http://crfpp.sourceforge.net</a></li>
+<li><strong>MALLET</strong> - <a href="http://mallet.cs.umass.edu">http://mallet.cs.umass.edu</a></li>
+<li><strong>GRMM</strong> - <a href="http://mallet.cs.umass.edu/grmm">http://mallet.cs.umass.edu/grmm</a></li>
+<li><strong>CRFSuite</strong> - <a href="http://www.chokkan.org/software/crfsuite">http://www.chokkan.org/software/crfsuite</a></li>
+<li><strong>FACTORIE</strong> - <a href="http://factorie.cs.umass.edu">http://factorie.cs.umass.edu</a></li>
+</ul>
+
 
       <address class="signature">
         Posted by
