@@ -4,7 +4,7 @@
  <title>UA Interdisciplinary Computational Intelligence Seminar</title>
  <link href="http://kobus.ca/seminars/ici/atom.xml" rel="self"/>
  <link href="http://kobus.ca/seminars/ici"/>
- <updated>2013-10-19T09:33:02-07:00</updated>
+ <updated>2013-10-26T09:41:27-07:00</updated>
  <id>http://kobus.ca/seminars/ici</id>
  <author>
    <name>ICI Seminar Group</name>
@@ -67,11 +67,11 @@
  </entry>
  
  <entry>
-   <title>TBD (Visualization)</title>
+   <title>An Overview of Topics and Themes at IEEE VIS 2013</title>
    <link href="http://kobus.ca/seminars/ici/2013/10/25/seminar"/>
    <updated>2013-10-25T00:00:00-07:00</updated>
    <id>http://kobus.ca/seminars/ici/2013/10/25/seminar</id>
-   <content type="html">&lt;p&gt;Angus will present on the topic of visualization.&lt;/p&gt;
+   <content type="html">
 </content>
  </entry>
  
