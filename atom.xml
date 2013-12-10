@@ -4,7 +4,7 @@
  <title>UA Interdisciplinary Computational Intelligence Seminar</title>
  <link href="http://kobus.ca/seminars/ici/atom.xml" rel="self"/>
  <link href="http://kobus.ca/seminars/ici"/>
- <updated>2013-12-02T20:43:00-07:00</updated>
+ <updated>2013-12-10T10:33:50-07:00</updated>
  <id>http://kobus.ca/seminars/ici</id>
  <author>
    <name>ICI Seminar Group</name>
@@ -13,11 +13,11 @@
 
  
  <entry>
-   <title>TBD (Vision / Machine Learning)</title>
+   <title>Mindful modeling for theory and explanation</title>
    <link href="http://kobus.ca/seminars/ici/2013/12/13/seminar"/>
    <updated>2013-12-13T00:00:00-07:00</updated>
    <id>http://kobus.ca/seminars/ici/2013/12/13/seminar</id>
-   <content type="html">&lt;p&gt;Kyle will present on the topic of vision and/or machine learning.&lt;/p&gt;
+   <content type="html">
 </content>
  </entry>
  
