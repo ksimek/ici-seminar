@@ -4,13 +4,76 @@
  <title>UA Interdisciplinary Computational Intelligence Seminar</title>
  <link href="http://kobus.ca/seminars/ici/atom.xml" rel="self"/>
  <link href="http://kobus.ca/seminars/ici"/>
- <updated>2013-12-10T10:36:28-07:00</updated>
+ <updated>2014-01-17T23:59:45-07:00</updated>
  <id>http://kobus.ca/seminars/ici</id>
  <author>
    <name>ICI Seminar Group</name>
    <email>ksimek@email.arizona.edu</email>
  </author>
 
+ 
+ <entry>
+   <title>Fast object segmentation in unconstrained video</title>
+   <link href="http://kobus.ca/seminars/ici/2014/02/28/seminar"/>
+   <updated>2014-02-28T00:00:00-07:00</updated>
+   <id>http://kobus.ca/seminars/ici/2014/02/28/seminar</id>
+   <content type="html">&lt;p&gt;[&lt;a href=&quot;http://groups.inf.ed.ac.uk/calvin/Publications/papazoglouICCV2013-camera-ready.pdf&quot;&gt;pdf&lt;/a&gt;]&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>TBD (Learning)</title>
+   <link href="http://kobus.ca/seminars/ici/2014/02/21/seminar"/>
+   <updated>2014-02-21T00:00:00-07:00</updated>
+   <id>http://kobus.ca/seminars/ici/2014/02/21/seminar</id>
+   <content type="html">&lt;p&gt;TBD&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>TBD (Learning)</title>
+   <link href="http://kobus.ca/seminars/ici/2014/02/14/seminar"/>
+   <updated>2014-02-14T00:00:00-07:00</updated>
+   <id>http://kobus.ca/seminars/ici/2014/02/14/seminar</id>
+   <content type="html">&lt;p&gt;TBD&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Practice Talk - Andrew Predoehl</title>
+   <link href="http://kobus.ca/seminars/ici/2014/02/07/seminar"/>
+   <updated>2014-02-07T00:00:00-07:00</updated>
+   <id>http://kobus.ca/seminars/ici/2014/02/07/seminar</id>
+   <content type="html">&lt;p&gt;Andrew Predoehl will present a practice version of his comprehensive oral exam and seek feedback.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Practice Talk - Kyle Simek</title>
+   <link href="http://kobus.ca/seminars/ici/2014/01/31/seminar"/>
+   <updated>2014-01-31T00:00:00-07:00</updated>
+   <id>http://kobus.ca/seminars/ici/2014/01/31/seminar</id>
+   <content type="html">&lt;p&gt;Kyle Simek will present a practice version of his comprehensive oral exam and seek feedback.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Practice Talk - Colin Dawson</title>
+   <link href="http://kobus.ca/seminars/ici/2014/01/24/seminar"/>
+   <updated>2014-01-24T00:00:00-07:00</updated>
+   <id>http://kobus.ca/seminars/ici/2014/01/24/seminar</id>
+   <content type="html">&lt;p&gt;Colin will give a practice of his job talk and seek feedback.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Spring Organizational Meeting</title>
+   <link href="http://kobus.ca/seminars/ici/2014/01/17/seminar"/>
+   <updated>2014-01-17T00:00:00-07:00</updated>
+   <id>http://kobus.ca/seminars/ici/2014/01/17/seminar</id>
+   <content type="html">&lt;p&gt;Discussed seminar ideas for the spring semester.  Meeting notes &lt;a href=&quot;http://vision.sista.arizona.edu/ksimek/research/2014/01/17/work-log/&quot;&gt;are available here&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Mindful modeling for theory and explanation</title>
