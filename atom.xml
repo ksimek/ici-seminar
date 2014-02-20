@@ -4,7 +4,7 @@
  <title>UA Interdisciplinary Computational Intelligence Seminar</title>
  <link href="http://kobus.ca/seminars/ici/atom.xml" rel="self"/>
  <link href="http://kobus.ca/seminars/ici"/>
- <updated>2014-02-12T16:55:04-07:00</updated>
+ <updated>2014-02-20T12:59:14-07:00</updated>
  <id>http://kobus.ca/seminars/ici</id>
  <author>
    <name>ICI Seminar Group</name>
@@ -14,10 +14,19 @@
  
  <entry>
    <title>Fast object segmentation in unconstrained video</title>
+   <link href="http://kobus.ca/seminars/ici/2014/03/21/seminar"/>
+   <updated>2014-03-21T00:00:00-07:00</updated>
+   <id>http://kobus.ca/seminars/ici/2014/03/21/seminar</id>
+   <content type="html">&lt;p&gt;[&lt;a href=&quot;http://groups.inf.ed.ac.uk/calvin/Publications/papazoglouICCV2013-camera-ready.pdf&quot;&gt;pdf&lt;/a&gt;]&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>TBD (Learning)</title>
    <link href="http://kobus.ca/seminars/ici/2014/03/14/seminar"/>
    <updated>2014-03-14T00:00:00-07:00</updated>
    <id>http://kobus.ca/seminars/ici/2014/03/14/seminar</id>
-   <content type="html">&lt;p&gt;[&lt;a href=&quot;http://groups.inf.ed.ac.uk/calvin/Publications/papazoglouICCV2013-camera-ready.pdf&quot;&gt;pdf&lt;/a&gt;]&lt;/p&gt;
+   <content type="html">&lt;p&gt;TBD&lt;/p&gt;
 </content>
  </entry>
  
@@ -26,15 +35,6 @@
    <link href="http://kobus.ca/seminars/ici/2014/02/28/seminar"/>
    <updated>2014-02-28T00:00:00-07:00</updated>
    <id>http://kobus.ca/seminars/ici/2014/02/28/seminar</id>
-   <content type="html">&lt;p&gt;TBD&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>TBD (Learning)</title>
-   <link href="http://kobus.ca/seminars/ici/2014/02/21/seminar"/>
-   <updated>2014-02-21T00:00:00-07:00</updated>
-   <id>http://kobus.ca/seminars/ici/2014/02/21/seminar</id>
    <content type="html">&lt;p&gt;TBD&lt;/p&gt;
 </content>
  </entry>
