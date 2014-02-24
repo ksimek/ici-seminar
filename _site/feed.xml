@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>UA Interdisciplinary Computational Intelligence Seminar</title>
+		<description></description>
+		<link>http://kobus.ca/seminars/ici</link>
+		<atom:link href="http://kobus.ca/seminars/ici/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Fast object segmentation in unconstrained video</title>
+				<description>&lt;p&gt;[&lt;a href=&quot;http://groups.inf.ed.ac.uk/calvin/Publications/papazoglouICCV2013-camera-ready.pdf&quot;&gt;pdf&lt;/a&gt;]&lt;/p&gt;
+</description>
+				<pubDate>Fri, 21 Mar 2014 00:00:00 -0700</pubDate>
+				<link>http://kobus.ca/seminars/ici/2014/03/21/seminar</link>
+				<guid isPermaLink="true">http://kobus.ca/seminars/ici/2014/03/21/seminar</guid>
+			</item>
+		
+			<item>
+				<title>TBD (Learning)</title>
+				<description>&lt;p&gt;TBD&lt;/p&gt;
+</description>
+				<pubDate>Fri, 14 Mar 2014 00:00:00 -0700</pubDate>
+				<link>http://kobus.ca/seminars/ici/2014/03/14/seminar</link>
+				<guid isPermaLink="true">http://kobus.ca/seminars/ici/2014/03/14/seminar</guid>
+			</item>
+		
+			<item>
+				<title>TBD (Learning)</title>
+				<description>&lt;p&gt;TBD&lt;/p&gt;
+</description>
+				<pubDate>Fri, 28 Feb 2014 00:00:00 -0700</pubDate>
+				<link>http://kobus.ca/seminars/ici/2014/02/28/seminar</link>
+				<guid isPermaLink="true">http://kobus.ca/seminars/ici/2014/02/28/seminar</guid>
+			</item>
+		
+			<item>
+				<title>[Cancelled]</title>
+				<description>&lt;p&gt;Today's talk is cancelled.&lt;/p&gt;
+</description>
+				<pubDate>Fri, 14 Feb 2014 00:00:00 -0700</pubDate>
+				<link>http://kobus.ca/seminars/ici/2014/02/14/seminar</link>
+				<guid isPermaLink="true">http://kobus.ca/seminars/ici/2014/02/14/seminar</guid>
+			</item>
+		
+			<item>
+				<title>Practice Talk - Kyle Simek</title>
+				<description>&lt;p&gt;Kyle Simek will practice his dissertation proposal defense, &quot;Modeling and Inference of Biological Structure with Branching Gaussian Processes&quot; and seek comments and feedback.&lt;/p&gt;
+</description>
+				<pubDate>Fri, 07 Feb 2014 00:00:00 -0700</pubDate>
+				<link>http://kobus.ca/seminars/ici/2014/02/07/seminar</link>
+				<guid isPermaLink="true">http://kobus.ca/seminars/ici/2014/02/07/seminar</guid>
+			</item>
+		
+			<item>
+				<title>Practice Talk - Colin Dawson</title>
+				<description>&lt;p&gt;Colin will give a practice of his job talk and seek feedback.&lt;/p&gt;
+</description>
+				<pubDate>Fri, 31 Jan 2014 00:00:00 -0700</pubDate>
+				<link>http://kobus.ca/seminars/ici/2014/01/31/seminar</link>
+				<guid isPermaLink="true">http://kobus.ca/seminars/ici/2014/01/31/seminar</guid>
+			</item>
+		
+			<item>
+				<title>Spring Organizational Meeting</title>
+				<description>&lt;p&gt;Discussed seminar ideas for the spring semester.  Meeting notes &lt;a href=&quot;http://vision.sista.arizona.edu/ksimek/research/2014/01/17/work-log/&quot;&gt;are available here&lt;/a&gt;.&lt;/p&gt;
+</description>
+				<pubDate>Fri, 24 Jan 2014 00:00:00 -0700</pubDate>
+				<link>http://kobus.ca/seminars/ici/2014/01/24/seminar</link>
+				<guid isPermaLink="true">http://kobus.ca/seminars/ici/2014/01/24/seminar</guid>
+			</item>
+		
+			<item>
+				<title>Mindful modeling for theory and explanation</title>
+				<description>
+</description>
+				<pubDate>Fri, 13 Dec 2013 00:00:00 -0700</pubDate>
+				<link>http://kobus.ca/seminars/ici/2013/12/13/seminar</link>
+				<guid isPermaLink="true">http://kobus.ca/seminars/ici/2013/12/13/seminar</guid>
+			</item>
+		
+			<item>
+				<title>Qiyam's Dissertation Defense Rehearsal</title>
+				<description>&lt;p&gt;Qiyam will present a practice version of his dissertation defense and seek feedback.&lt;/p&gt;
+</description>
+				<pubDate>Fri, 06 Dec 2013 00:00:00 -0700</pubDate>
+				<link>http://kobus.ca/seminars/ici/2013/12/06/seminar</link>
+				<guid isPermaLink="true">http://kobus.ca/seminars/ici/2013/12/06/seminar</guid>
+			</item>
+		
+			<item>
+				<title>Job Talk Practice (rescheduled)</title>
+				<description>&lt;p&gt;Colin will be practicing his upcoming job talk.  More details to follow.&lt;/p&gt;
+</description>
+				<pubDate>Fri, 22 Nov 2013 00:00:00 -0700</pubDate>
+				<link>http://kobus.ca/seminars/ici/2013/11/22/seminar</link>
+				<guid isPermaLink="true">http://kobus.ca/seminars/ici/2013/11/22/seminar</guid>
+			</item>
+		
+	</channel>
+</rss>
