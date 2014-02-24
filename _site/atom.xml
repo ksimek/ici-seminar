@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>UA Interdisciplinary Computational Intelligence Seminar</title>
+ <link href="http://kobus.ca/seminars/ici/atom.xml" rel="self"/>
+ <link href="http://kobus.ca/seminars/ici"/>
+ <updated>2014-02-24T12:40:42-07:00</updated>
+ <id>http://kobus.ca/seminars/ici</id>
+ <author>
+   <name>ICI Seminar Group</name>
+   <email>ksimek@email.arizona.edu</email>
+ </author>
+
+ 
+ <entry>
+   <title>Fast object segmentation in unconstrained video</title>
+   <link href="http://kobus.ca/seminars/ici/2014/03/21/seminar"/>
+   <updated>2014-03-21T00:00:00-07:00</updated>
+   <id>http://kobus.ca/seminars/ici/2014/03/21/seminar</id>
+   <content type="html">&lt;p&gt;[&lt;a href=&quot;http://groups.inf.ed.ac.uk/calvin/Publications/papazoglouICCV2013-camera-ready.pdf&quot;&gt;pdf&lt;/a&gt;]&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>TBD (Learning)</title>
+   <link href="http://kobus.ca/seminars/ici/2014/03/14/seminar"/>
+   <updated>2014-03-14T00:00:00-07:00</updated>
+   <id>http://kobus.ca/seminars/ici/2014/03/14/seminar</id>
+   <content type="html">&lt;p&gt;TBD&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>TBD (Learning)</title>
+   <link href="http://kobus.ca/seminars/ici/2014/02/28/seminar"/>
+   <updated>2014-02-28T00:00:00-07:00</updated>
+   <id>http://kobus.ca/seminars/ici/2014/02/28/seminar</id>
+   <content type="html">&lt;p&gt;TBD&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>[Cancelled]</title>
+   <link href="http://kobus.ca/seminars/ici/2014/02/14/seminar"/>
+   <updated>2014-02-14T00:00:00-07:00</updated>
+   <id>http://kobus.ca/seminars/ici/2014/02/14/seminar</id>
+   <content type="html">&lt;p&gt;Today's talk is cancelled.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Practice Talk - Kyle Simek</title>
+   <link href="http://kobus.ca/seminars/ici/2014/02/07/seminar"/>
+   <updated>2014-02-07T00:00:00-07:00</updated>
+   <id>http://kobus.ca/seminars/ici/2014/02/07/seminar</id>
+   <content type="html">&lt;p&gt;Kyle Simek will practice his dissertation proposal defense, &quot;Modeling and Inference of Biological Structure with Branching Gaussian Processes&quot; and seek comments and feedback.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Practice Talk - Colin Dawson</title>
+   <link href="http://kobus.ca/seminars/ici/2014/01/31/seminar"/>
+   <updated>2014-01-31T00:00:00-07:00</updated>
+   <id>http://kobus.ca/seminars/ici/2014/01/31/seminar</id>
+   <content type="html">&lt;p&gt;Colin will give a practice of his job talk and seek feedback.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Spring Organizational Meeting</title>
+   <link href="http://kobus.ca/seminars/ici/2014/01/24/seminar"/>
+   <updated>2014-01-24T00:00:00-07:00</updated>
+   <id>http://kobus.ca/seminars/ici/2014/01/24/seminar</id>
+   <content type="html">&lt;p&gt;Discussed seminar ideas for the spring semester.  Meeting notes &lt;a href=&quot;http://vision.sista.arizona.edu/ksimek/research/2014/01/17/work-log/&quot;&gt;are available here&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Mindful modeling for theory and explanation</title>
+   <link href="http://kobus.ca/seminars/ici/2013/12/13/seminar"/>
+   <updated>2013-12-13T00:00:00-07:00</updated>
+   <id>http://kobus.ca/seminars/ici/2013/12/13/seminar</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Qiyam's Dissertation Defense Rehearsal</title>
+   <link href="http://kobus.ca/seminars/ici/2013/12/06/seminar"/>
+   <updated>2013-12-06T00:00:00-07:00</updated>
+   <id>http://kobus.ca/seminars/ici/2013/12/06/seminar</id>
+   <content type="html">&lt;p&gt;Qiyam will present a practice version of his dissertation defense and seek feedback.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Job Talk Practice (rescheduled)</title>
+   <link href="http://kobus.ca/seminars/ici/2013/11/22/seminar"/>
+   <updated>2013-11-22T00:00:00-07:00</updated>
+   <id>http://kobus.ca/seminars/ici/2013/11/22/seminar</id>
+   <content type="html">&lt;p&gt;Colin will be practicing his upcoming job talk.  More details to follow.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>AI Medley</title>
+   <link href="http://kobus.ca/seminars/ici/2013/11/15/seminar"/>
+   <updated>2013-11-15T00:00:00-07:00</updated>
+   <id>http://kobus.ca/seminars/ici/2013/11/15/seminar</id>
+   <content type="html">&lt;p&gt;Anh will start by presenting his new research for inferring the mental states of participants in short videos.  If there's time we may hear from Clay on recent progress on the Bayesian Blackboard project, or from Jeremy on his work relating language to visual cues.&lt;/p&gt;
+
+&lt;p&gt;The talks will be informal, and there may be some good opportunities for discussion and sharing of ideas.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Human Perception in Using Projection Methods for Multidimensional Data Visualization</title>
+   <link href="http://kobus.ca/seminars/ici/2013/11/08/seminar"/>
+   <updated>2013-11-08T00:00:00-07:00</updated>
+   <id>http://kobus.ca/seminars/ici/2013/11/08/seminar</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>NO SEMINAR</title>
+   <link href="http://kobus.ca/seminars/ici/2013/11/01/seminar"/>
+   <updated>2013-11-01T00:00:00-07:00</updated>
+   <id>http://kobus.ca/seminars/ici/2013/11/01/seminar</id>
+   <content type="html">&lt;p&gt;Due to the CVPR deadline, there will be no seminar this week.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>An Overview of Topics and Themes at IEEE VIS 2013</title>
+   <link href="http://kobus.ca/seminars/ici/2013/10/25/seminar"/>
+   <updated>2013-10-25T00:00:00-07:00</updated>
+   <id>http://kobus.ca/seminars/ici/2013/10/25/seminar</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>An Introduction to Conditional Random Fields</title>
+   <link href="http://kobus.ca/seminars/ici/2013/10/18/seminar"/>
+   <updated>2013-10-18T00:00:00-07:00</updated>
+   <id>http://kobus.ca/seminars/ici/2013/10/18/seminar</id>
+   <content type="html">&lt;p&gt;Clay will present this seminal paper on structured learning and prediction using conditional random fields.&lt;/p&gt;
+
+&lt;h2&gt;Supplemental Material&lt;/h2&gt;
+
+&lt;p&gt;After the talk, Clay provided the following supplemental material and comments.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;/seminars/ici/docs/CRFs-overview-release.pptx&quot;&gt;Lecture Slides&lt;/a&gt; (ppt)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://homepages.inf.ed.ac.uk/csutton/publications/crftut-fnt.pdf&quot;&gt;An Introduction to Conditional Random Fields. Charles Sutton, Andrew McCallum. Foundations and Trends in Machine Learning 4 (4). 2012.&lt;/a&gt; (pdf)  The paper I focused on. &lt;em&gt;(Same as &quot;Reference link&quot; above)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://repository.upenn.edu/cgi/viewcontent.cgi?article=1011&amp;amp;context=cis_reports&quot;&gt;Hanna M. Wallach (2004). “Conditional Random Fields: An Introduction.” Technical Report MS-CIS-04-21.  Department of Computer and Information Science, University of Pennsylvania.&lt;/a&gt; Easy to follow, provides high-level intuition.  Presents CRFs as undirected graphical models (as opposed to undirected factor graphs).&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://homepages.inf.ed.ac.uk/csutton/publications/crf-tutorial.pdf&quot;&gt;Charles Sutton and Andrew McCallum (2006). “An Introduction to Conditional Random Fields for Relational Learning.”  In Introduction to Statistical Relational Learning.  Edited by Lise Getoor and Ben Taskar.  MIT Press, 2006&lt;/a&gt;.  (pdf) Shorter version of paper I presented (the beginning of...)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.it.iitb.ac.in/~grahul/main.pdf&quot;&gt;Rahul Gupta (2006).  “Conditional Random Fields.”  Unpublished report, IIT Bombay.&lt;/a&gt;.  (pdf) Provides detailed derivation of the important equations for CRFs&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.iro.umontreal.ca/~memisevr/pubs/sdl.pdf&quot;&gt;Roland Memisevic (2006).  “An Introduction to Structured Discriminative Learning.”  Technical Report, University of Toronto.&lt;/a&gt;. (pdf) Places CRFs in the context of other methods for learning to predict complex outputs, esp. SVM-inspired large-margin methods.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://cseweb.ucsd.edu/users/elkan/250B/loglinearCRFs.pdf&quot;&gt;Charles Elkan (2013). “Log-linear models and CRFs”&lt;/a&gt; (pdf)&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Software&lt;/h2&gt;
+
+&lt;p&gt;Below are links to the CRF software libraries mentioned in the paper.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;CRF++&lt;/strong&gt; -  &lt;a href=&quot;http://crfpp.sourceforge.net&quot;&gt;http://crfpp.sourceforge.net&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;MALLET&lt;/strong&gt; - &lt;a href=&quot;http://mallet.cs.umass.edu&quot;&gt;http://mallet.cs.umass.edu&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;GRMM&lt;/strong&gt; - &lt;a href=&quot;http://mallet.cs.umass.edu/grmm&quot;&gt;http://mallet.cs.umass.edu/grmm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CRFSuite&lt;/strong&gt; - &lt;a href=&quot;http://www.chokkan.org/software/crfsuite&quot;&gt;http://www.chokkan.org/software/crfsuite&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;FACTORIE&lt;/strong&gt; - &lt;a href=&quot;http://factorie.cs.umass.edu&quot;&gt;http://factorie.cs.umass.edu&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Joint Bayesian inference of language and scene structure from captioned images</title>
+   <link href="http://kobus.ca/seminars/ici/2013/10/11/seminar"/>
+   <updated>2013-10-11T00:00:00-07:00</updated>
+   <id>http://kobus.ca/seminars/ici/2013/10/11/seminar</id>
+   <content type="html">&lt;p&gt;Colin will present his recent work on inferring captions for scenes.&lt;/p&gt;
+
+&lt;h2&gt;References&lt;/h2&gt;
+
+&lt;p&gt;This work is still in development, but Colin has provided two sources that provide some background.  The first is his previous paper from ICDL 2013:&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;&lt;a href=&quot;/seminars/ici/docs/ICDL2013.pdf&quot;&gt;A generative probabilistic framework for learning spatial language&lt;/a&gt;. Colin R. Dawson, Jeremy Wright, Antons Rebguns, Marco Valenzuela Escarcega, Daniel Fried and Paul R. Cohen.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;The second is a related paper on probabilistic parsing by Michael Collins.&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;&lt;a href=&quot;/seminars/ici/docs/Three_Generative_Lexicalized_Models_for_Statistical_Parsing.ps&quot;&gt;Three Generative, Lexicalised Models for Statistical Parsing&lt;/a&gt;. Michael Collins.&lt;/p&gt;&lt;/blockquote&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Discourse-aware Non-factoid Question Answering: Discourse Markers, Parsing, and Domain Transfer</title>
+   <link href="http://kobus.ca/seminars/ici/2013/10/04/seminar"/>
+   <updated>2013-10-04T00:00:00-07:00</updated>
+   <id>http://kobus.ca/seminars/ici/2013/10/04/seminar</id>
+   <content type="html">&lt;p&gt;Peter will present some recent work on NLP.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>TED Talk: Slic</title>
+   <link href="http://kobus.ca/seminars/ici/2013/09/27/seminar"/>
+   <updated>2013-09-27T00:00:00-07:00</updated>
+   <id>http://kobus.ca/seminars/ici/2013/09/27/seminar</id>
+   <content type="html">&lt;p&gt;Alon will present his upcoming TED talk (October 14).&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Convolution Kernels for Natural Language</title>
+   <link href="http://kobus.ca/seminars/ici/2013/09/20/seminar"/>
+   <updated>2013-09-20T00:00:00-07:00</updated>
+   <id>http://kobus.ca/seminars/ici/2013/09/20/seminar</id>
+   <content type="html">&lt;h1&gt;Agenda&lt;/h1&gt;
+
+&lt;p&gt;Mihai will present this seminal paper on convolutional kernels in natural language processing from NIPS 2001.&lt;/p&gt;
+
+&lt;p&gt;Time permitting, we will also cover another paper on convolutional kernels from EMNLP 2009:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.surdeanu.info/mihai/teaching/ista555-fall13/readings/nguyen2009.pdf&quot;&gt;http://www.surdeanu.info/mihai/teaching/ista555-fall13/readings/nguyen2009.pdf&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Bayesian 3D tracking from monocular video</title>
+   <link href="http://kobus.ca/seminars/ici/2013/09/13/seminar"/>
+   <updated>2013-09-13T00:00:00-07:00</updated>
+   <id>http://kobus.ca/seminars/ici/2013/09/13/seminar</id>
+   <content type="html">&lt;h1&gt;Agenda&lt;/h1&gt;
+
+&lt;p&gt;Ernesto will present his recently accepted ICCV 2013 paper.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>An Analysis-Synthesis Approach to the Creative Processing of Video Signals</title>
+   <link href="http://kobus.ca/seminars/ici/2013/09/06/seminar"/>
+   <updated>2013-09-06T00:00:00-07:00</updated>
+   <id>http://kobus.ca/seminars/ici/2013/09/06/seminar</id>
+   <content type="html">&lt;h1&gt;Agenda&lt;/h1&gt;
+
+&lt;p&gt;Javier will present work from his dissertation.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Fall 2013 Introduction & Organization</title>
+   <link href="http://kobus.ca/seminars/ici/2013/08/30/introduction-organization"/>
+   <updated>2013-08-30T00:00:00-07:00</updated>
+   <id>http://kobus.ca/seminars/ici/2013/08/30/introduction-organization</id>
+   <content type="html">&lt;h1&gt;Schedule Planning&lt;/h1&gt;
+
+&lt;p&gt;Below is a rough schedule for the Fall 2013 seminar.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;September 6&lt;/strong&gt; - Javier Villegas (Visualization / Art)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;September 13&lt;/strong&gt; - Ernesto (Tracking)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;September 20&lt;/strong&gt; - Mihai (NLP)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;September 27&lt;/strong&gt; - Alon (Vision)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;October 4&lt;/strong&gt; - Peter (NLP)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;October 11&lt;/strong&gt; - Colin (Scenes and Captions)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;October 18&lt;/strong&gt; - Clay (Scenes and Captions?)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;October 25&lt;/strong&gt; - Angus (Visualization)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;November 1&lt;/strong&gt; - &lt;em&gt;No Seminar due to CVPR Deadline&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;November 8&lt;/strong&gt; - Kate&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;November 15&lt;/strong&gt; - Andrew&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;November 22&lt;/strong&gt; - Liu&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;December 6&lt;/strong&gt; - Qiyam (Stereo?)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;December 13&lt;/strong&gt; - Kyle&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+ 
+</feed>
