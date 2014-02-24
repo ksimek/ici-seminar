@@ -4,7 +4,7 @@
  <title>UA Interdisciplinary Computational Intelligence Seminar</title>
  <link href="http://kobus.ca/seminars/ici/atom.xml" rel="self"/>
  <link href="http://kobus.ca/seminars/ici"/>
- <updated>2014-02-20T13:18:25-07:00</updated>
+ <updated>2014-02-24T12:45:54-07:00</updated>
  <id>http://kobus.ca/seminars/ici</id>
  <author>
    <name>ICI Seminar Group</name>
@@ -31,11 +31,13 @@
  </entry>
  
  <entry>
-   <title>TBD (Learning)</title>
+   <title>The Episolar Constraint: Monocular Shape from Shadow Correspondence</title>
    <link href="http://kobus.ca/seminars/ici/2014/02/28/seminar"/>
    <updated>2014-02-28T00:00:00-07:00</updated>
    <id>http://kobus.ca/seminars/ici/2014/02/28/seminar</id>
-   <content type="html">&lt;p&gt;TBD&lt;/p&gt;
+   <content type="html">&lt;h2&gt;Agenda&lt;/h2&gt;
+
+&lt;p&gt;Qiyam will present this paper from CVPR 2013.&lt;/p&gt;
 </content>
  </entry>
  
