@@ -4,7 +4,7 @@
  <title>UA Interdisciplinary Computational Intelligence Seminar</title>
  <link href="http://kobus.ca/seminars/ici/atom.xml" rel="self"/>
  <link href="http://kobus.ca/seminars/ici"/>
- <updated>2014-04-01T16:20:58-07:00</updated>
+ <updated>2014-04-01T16:29:20-07:00</updated>
  <id>http://kobus.ca/seminars/ici</id>
  <author>
    <name>ICI Seminar Group</name>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>GrabCut — Interactive Foreground Extraction using Iterated Graph Cuts</title>
-   <link href="http://kobus.ca/seminars/ici/2014/04/01/seminar"/>
-   <updated>2014-04-01T00:00:00-07:00</updated>
-   <id>http://kobus.ca/seminars/ici/2014/04/01/seminar</id>
+   <link href="http://kobus.ca/seminars/ici/2014/04/04/seminar"/>
+   <updated>2014-04-04T00:00:00-07:00</updated>
+   <id>http://kobus.ca/seminars/ici/2014/04/04/seminar</id>
    <content type="html">&lt;h2&gt;Other resources&lt;/h2&gt;
 
 &lt;ul&gt;
