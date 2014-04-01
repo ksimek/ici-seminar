@@ -7,8 +7,28 @@
 		<atom:link href="http://kobus.ca/seminars/ici/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>GrabCut — Interactive Foreground Extraction using Iterated Graph Cuts</title>
+				<description>&lt;h2&gt;Other resources&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://research.microsoft.com/en-us/um/cambridge/projects/visionimagevideoediting/segmentation/grabcut.htm&quot;&gt;Project website&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Related work: &lt;em&gt;&lt;a href=&quot;http://research.microsoft.com/pubs/67898/eccv04-gmmrf.pdf&quot;&gt;Interactive image segmentation using an adaptive GMMRF model&lt;/a&gt;&lt;/em&gt; [pdf]&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;a href=&quot;http://www.ecommons.cornell.edu/bitstream/1813/5842/1/2001-1857.pdf&quot;&gt;What energy functions can be minimized via graph cuts?&lt;/a&gt;&lt;/em&gt; [pdf]  - Seminal work on graph cuts in computer vision&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+				<pubDate>Tue, 01 Apr 2014 00:00:00 -0700</pubDate>
+				<link>http://kobus.ca/seminars/ici/2014/04/01/seminar</link>
+				<guid isPermaLink="true">http://kobus.ca/seminars/ici/2014/04/01/seminar</guid>
+			</item>
+		
+			<item>
 				<title>Fast object segmentation in unconstrained video</title>
-				<description>
+				<description>&lt;h2&gt;Meeting Minutes&lt;/h2&gt;
+
+&lt;p&gt;Discussed next weeks presentation - Ernesto will present next week, Jinyan the following.&lt;/p&gt;
+
+&lt;p&gt;Decided to add grab-cut paper and/or other paper on graph-cut optimization.&lt;/p&gt;
 </description>
 				<pubDate>Fri, 28 Mar 2014 00:00:00 -0700</pubDate>
 				<link>http://kobus.ca/seminars/ici/2014/03/28/seminar</link>
@@ -87,15 +107,6 @@
 				<pubDate>Fri, 06 Dec 2013 00:00:00 -0700</pubDate>
 				<link>http://kobus.ca/seminars/ici/2013/12/06/seminar</link>
 				<guid isPermaLink="true">http://kobus.ca/seminars/ici/2013/12/06/seminar</guid>
-			</item>
-		
-			<item>
-				<title>Job Talk Practice (rescheduled)</title>
-				<description>&lt;p&gt;Colin will be practicing his upcoming job talk.  More details to follow.&lt;/p&gt;
-</description>
-				<pubDate>Fri, 22 Nov 2013 00:00:00 -0700</pubDate>
-				<link>http://kobus.ca/seminars/ici/2013/11/22/seminar</link>
-				<guid isPermaLink="true">http://kobus.ca/seminars/ici/2013/11/22/seminar</guid>
 			</item>
 		
 	</channel>

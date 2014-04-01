@@ -4,7 +4,7 @@
  <title>UA Interdisciplinary Computational Intelligence Seminar</title>
  <link href="http://kobus.ca/seminars/ici/atom.xml" rel="self"/>
  <link href="http://kobus.ca/seminars/ici"/>
- <updated>2014-03-25T10:06:06-07:00</updated>
+ <updated>2014-04-01T16:20:58-07:00</updated>
  <id>http://kobus.ca/seminars/ici</id>
  <author>
    <name>ICI Seminar Group</name>
@@ -13,11 +13,31 @@
 
  
  <entry>
+   <title>GrabCut — Interactive Foreground Extraction using Iterated Graph Cuts</title>
+   <link href="http://kobus.ca/seminars/ici/2014/04/01/seminar"/>
+   <updated>2014-04-01T00:00:00-07:00</updated>
+   <id>http://kobus.ca/seminars/ici/2014/04/01/seminar</id>
+   <content type="html">&lt;h2&gt;Other resources&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://research.microsoft.com/en-us/um/cambridge/projects/visionimagevideoediting/segmentation/grabcut.htm&quot;&gt;Project website&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Related work: &lt;em&gt;&lt;a href=&quot;http://research.microsoft.com/pubs/67898/eccv04-gmmrf.pdf&quot;&gt;Interactive image segmentation using an adaptive GMMRF model&lt;/a&gt;&lt;/em&gt; [pdf]&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;a href=&quot;http://www.ecommons.cornell.edu/bitstream/1813/5842/1/2001-1857.pdf&quot;&gt;What energy functions can be minimized via graph cuts?&lt;/a&gt;&lt;/em&gt; [pdf]  - Seminal work on graph cuts in computer vision&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
    <title>Fast object segmentation in unconstrained video</title>
    <link href="http://kobus.ca/seminars/ici/2014/03/28/seminar"/>
    <updated>2014-03-28T00:00:00-07:00</updated>
    <id>http://kobus.ca/seminars/ici/2014/03/28/seminar</id>
-   <content type="html">
+   <content type="html">&lt;h2&gt;Meeting Minutes&lt;/h2&gt;
+
+&lt;p&gt;Discussed next weeks presentation - Ernesto will present next week, Jinyan the following.&lt;/p&gt;
+
+&lt;p&gt;Decided to add grab-cut paper and/or other paper on graph-cut optimization.&lt;/p&gt;
 </content>
  </entry>
  

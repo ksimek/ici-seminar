@@ -5,7 +5,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
 <head>
    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-   <title>Fast object segmentation in unconstrained video </title>
+   <title>GrabCut — Interactive Foreground Extraction using Iterated Graph Cuts </title>
    <meta name="author" content="ICI Seminar Group" />
 
    <link rel="start" href="/seminars/ici/" />
@@ -64,34 +64,37 @@
 	
   
   
-  <h1 class="title">Fast object segmentation in unconstrained video</h1>
+  <h1 class="title">GrabCut — Interactive Foreground Extraction using Iterated Graph Cuts</h1>
 
 
-  <div class="author">A Papazoglou, V Ferrari</div>
-  <div class="presenter">Presented by Kate Kharitanova</div>
+  <div class="author">Carsten Rother, Vladimir Kolmogorov, Andrew Blake</div>
+  <div class="presenter">Presented by Ernesto Brau</div>
 
-  <div class="date emphnext">March 28, 2014</div>
+  <div class="date emphnext">April 01, 2014</div>
     
 
   
   <h1>Abstract</h1>
   <p class="abstract">
-    We present a technique for separating foreground objects from the background in a video. Our method is fast, fully au- tomatic, and makes minimal assumptions about the video. This enables handling essentially unconstrained settings, including rapidly moving background, arbitrary object mo- tion and appearance, and non-rigid deformations and ar- ticulations. In experiments on two datasets containing over 1400 video shots, our method outperforms a state-of-the- art background subtraction technique as well as meth- ods based on clustering point tracks. Moreover, it performs comparably to recent video object segmentation methods based on object proposals, while being orders of magnitude faster.
+    The problem of efficient, interactive foreground/background seg- mentation in still images is of great practical importance in im- age editing. Classical image segmentation tools use either texture (colour) information, e.g. Magic Wand, or edge (contrast) infor- mation, e.g. Intelligent Scissors. Recently, an approach based on optimization by graph-cut has been developed which successfully combines both types of information. In this paper we extend the graph-cut approach in three respects. First, we have developed a more powerful, iterative version of the optimisation. Secondly, the power of the iterative algorithm is used to simplify substantially the user interaction needed for a given quality of result. Thirdly, a robust algorithm for border matting has been developed to estimate simultaneously the alpha-matte around an object boundary and the colours of foreground pixels. We show that for moderately difficult examples the proposed method outperforms competitive tools.
   </p>
     
     <p>
-    <strong>Download:</strong> <a href="http://groups.inf.ed.ac.uk/calvin/Publications/papazoglouICCV2013-camera-ready.pdf">Reference link</a>
+    <strong>Download:</strong> <a href="http://research.microsoft.com/pubs/67890/siggraph04-grabcut.pdf">Reference link</a>
     </p>
     
 
 
 
   
-    <h2>Meeting Minutes</h2>
+    <h2>Other resources</h2>
 
-<p>Discussed next weeks presentation - Ernesto will present next week, Jinyan the following.</p>
+<ul>
+<li><a href="http://research.microsoft.com/en-us/um/cambridge/projects/visionimagevideoediting/segmentation/grabcut.htm">Project website</a></li>
+<li>Related work: <em><a href="http://research.microsoft.com/pubs/67898/eccv04-gmmrf.pdf">Interactive image segmentation using an adaptive GMMRF model</a></em> [pdf]</li>
+<li><em><a href="http://www.ecommons.cornell.edu/bitstream/1813/5842/1/2001-1857.pdf">What energy functions can be minimized via graph cuts?</a></em> [pdf]  - Seminal work on graph cuts in computer vision</li>
+</ul>
 
-<p>Decided to add grab-cut paper and/or other paper on graph-cut optimization.</p>
 
       <address class="signature">
         Posted by
@@ -106,11 +109,8 @@ ICI Seminar Group
 
   
   
-  <div class="prev-next">
-    <a href="/seminars/ici/2014/04/01/seminar" class="next" title="GrabCut — Interactive Foreground Extraction using Iterated Graph Cuts">GrabCut — Interactive Foreground Extraction using Iterated Graph Cuts &rarr;</a>
   
-  
-    <a href="/seminars/ici/2014/03/14/seminar" class="prev" title="TBD">&larr; TBD</a>
+    <a href="/seminars/ici/2014/03/28/seminar" class="prev" title="Fast object segmentation in unconstrained video">&larr; Fast object segmentation in unconstrained video</a>
   
   </div>
   <div class="clearer"> </div>
