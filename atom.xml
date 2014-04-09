@@ -4,13 +4,22 @@
  <title>UA Interdisciplinary Computational Intelligence Seminar</title>
  <link href="http://kobus.ca/seminars/ici/atom.xml" rel="self"/>
  <link href="http://kobus.ca/seminars/ici"/>
- <updated>2014-04-01T16:29:54-07:00</updated>
+ <updated>2014-04-09T09:22:55-07:00</updated>
  <id>http://kobus.ca/seminars/ici</id>
  <author>
    <name>ICI Seminar Group</name>
    <email>ksimek@email.arizona.edu</email>
  </author>
 
+ 
+ <entry>
+   <title>Efficient Sampling for Gaussian Process Inference using Control Variables</title>
+   <link href="http://kobus.ca/seminars/ici/2014/04/11/seminar"/>
+   <updated>2014-04-11T00:00:00-07:00</updated>
+   <id>http://kobus.ca/seminars/ici/2014/04/11/seminar</id>
+   <content type="html">&lt;p&gt;Jinyan will present on this recent method for efficiently searching the space of smooth functions using Markov chain Monte Carlo.  She will also provide some background on MCMC and Gaussian Processes.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>GrabCut — Interactive Foreground Extraction using Iterated Graph Cuts</title>

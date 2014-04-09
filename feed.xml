@@ -7,6 +7,15 @@
 		<atom:link href="http://kobus.ca/seminars/ici/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Efficient Sampling for Gaussian Process Inference using Control Variables</title>
+				<description>&lt;p&gt;Jinyan will present on this recent method for efficiently searching the space of smooth functions using Markov chain Monte Carlo.  She will also provide some background on MCMC and Gaussian Processes.&lt;/p&gt;
+</description>
+				<pubDate>Fri, 11 Apr 2014 00:00:00 -0700</pubDate>
+				<link>http://kobus.ca/seminars/ici/2014/04/11/seminar</link>
+				<guid isPermaLink="true">http://kobus.ca/seminars/ici/2014/04/11/seminar</guid>
+			</item>
+		
+			<item>
 				<title>GrabCut — Interactive Foreground Extraction using Iterated Graph Cuts</title>
 				<description>&lt;h2&gt;Other resources&lt;/h2&gt;
 
@@ -98,15 +107,6 @@
 				<pubDate>Fri, 13 Dec 2013 00:00:00 -0700</pubDate>
 				<link>http://kobus.ca/seminars/ici/2013/12/13/seminar</link>
 				<guid isPermaLink="true">http://kobus.ca/seminars/ici/2013/12/13/seminar</guid>
-			</item>
-		
-			<item>
-				<title>Qiyam's Dissertation Defense Rehearsal</title>
-				<description>&lt;p&gt;Qiyam will present a practice version of his dissertation defense and seek feedback.&lt;/p&gt;
-</description>
-				<pubDate>Fri, 06 Dec 2013 00:00:00 -0700</pubDate>
-				<link>http://kobus.ca/seminars/ici/2013/12/06/seminar</link>
-				<guid isPermaLink="true">http://kobus.ca/seminars/ici/2013/12/06/seminar</guid>
 			</item>
 		
 	</channel>
