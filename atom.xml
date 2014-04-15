@@ -4,13 +4,32 @@
  <title>UA Interdisciplinary Computational Intelligence Seminar</title>
  <link href="http://kobus.ca/seminars/ici/atom.xml" rel="self"/>
  <link href="http://kobus.ca/seminars/ici"/>
- <updated>2014-04-09T09:26:20-07:00</updated>
+ <updated>2014-04-14T23:27:46-07:00</updated>
  <id>http://kobus.ca/seminars/ici</id>
  <author>
    <name>ICI Seminar Group</name>
    <email>ksimek@email.arizona.edu</email>
  </author>
 
+ 
+ <entry>
+   <title>Graph-cuts and MRF's in Computer Vision</title>
+   <link href="http://kobus.ca/seminars/ici/2014/04/18/seminar"/>
+   <updated>2014-04-18T00:00:00-07:00</updated>
+   <id>http://kobus.ca/seminars/ici/2014/04/18/seminar</id>
+   <content type="html">&lt;p&gt;This talk will cover two papers on optimizing Markov random fields in computer vision.&lt;/p&gt;
+
+&lt;p&gt;In Boykov et al.'s influential 2001 PAMI paper, &quot;Fast Approximate Energy Minimization via Graph Cuts,&quot; the authors present two methods for updating large regions of labels simultaneously using graph-cuts: alpha expansion and beta swap.  These methods are both more efficient than single-site update methods, and are more effective at avoiding local minima.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.cs.sfu.ca/CourseCentral/821/li/material/source/Boykov01.pdf&quot;&gt;Download&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Szeliski et al.'s 2008 survey of MRF minimization methods investigates several computer-vision applications, and compares Boykov's graph-cuts methods against two other techniques: loopy belief propagation and tree re-weighted message passing (TRW-S).  I will focus mostly on the graph-cuts and applications parts of this paper.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://vision.middlebury.edu/MRF/pdf/MRF-PAMI.pdf&quot;&gt;Download&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Efficient Sampling for Gaussian Process Inference using Control Variables</title>

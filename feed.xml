@@ -7,6 +7,25 @@
 		<atom:link href="http://kobus.ca/seminars/ici/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Graph-cuts and MRF's in Computer Vision</title>
+				<description>&lt;p&gt;This talk will cover two papers on optimizing Markov random fields in computer vision.&lt;/p&gt;
+
+&lt;p&gt;In Boykov et al.'s influential 2001 PAMI paper, &quot;Fast Approximate Energy Minimization via Graph Cuts,&quot; the authors present two methods for updating large regions of labels simultaneously using graph-cuts: alpha expansion and beta swap.  These methods are both more efficient than single-site update methods, and are more effective at avoiding local minima.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.cs.sfu.ca/CourseCentral/821/li/material/source/Boykov01.pdf&quot;&gt;Download&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Szeliski et al.'s 2008 survey of MRF minimization methods investigates several computer-vision applications, and compares Boykov's graph-cuts methods against two other techniques: loopy belief propagation and tree re-weighted message passing (TRW-S).  I will focus mostly on the graph-cuts and applications parts of this paper.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://vision.middlebury.edu/MRF/pdf/MRF-PAMI.pdf&quot;&gt;Download&lt;/a&gt;&lt;/p&gt;
+</description>
+				<pubDate>Fri, 18 Apr 2014 00:00:00 -0700</pubDate>
+				<link>http://kobus.ca/seminars/ici/2014/04/18/seminar</link>
+				<guid isPermaLink="true">http://kobus.ca/seminars/ici/2014/04/18/seminar</guid>
+			</item>
+		
+			<item>
 				<title>Efficient Sampling for Gaussian Process Inference using Control Variables</title>
 				<description>&lt;p&gt;Jinyan will present on this recent method for efficiently searching the space of smooth functions using Markov chain Monte Carlo.  She will also provide some background on MCMC and Gaussian Processes.&lt;/p&gt;
 </description>
@@ -98,15 +117,6 @@
 				<pubDate>Fri, 24 Jan 2014 00:00:00 -0700</pubDate>
 				<link>http://kobus.ca/seminars/ici/2014/01/24/seminar</link>
 				<guid isPermaLink="true">http://kobus.ca/seminars/ici/2014/01/24/seminar</guid>
-			</item>
-		
-			<item>
-				<title>Mindful modeling for theory and explanation</title>
-				<description>
-</description>
-				<pubDate>Fri, 13 Dec 2013 00:00:00 -0700</pubDate>
-				<link>http://kobus.ca/seminars/ici/2013/12/13/seminar</link>
-				<guid isPermaLink="true">http://kobus.ca/seminars/ici/2013/12/13/seminar</guid>
 			</item>
 		
 	</channel>
