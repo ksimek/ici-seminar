@@ -7,116 +7,93 @@
 		<atom:link href="http://kobus.ca/seminars/ici/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>From Large Scale Image Categorization to Entry-Level Categories</title>
+				<title>Implicit structured light</title>
 				<description>
 </description>
-				<pubDate>Fri, 02 May 2014 00:00:00 -0700</pubDate>
-				<link>http://kobus.ca/seminars/ici/2014/05/02/seminar</link>
-				<guid isPermaLink="true">http://kobus.ca/seminars/ici/2014/05/02/seminar</guid>
+				<pubDate>Fri, 05 Dec 2014 00:00:00 -0700</pubDate>
+				<link>http://kobus.ca/seminars/ici/2014/12/05/seminar</link>
+				<guid isPermaLink="true">http://kobus.ca/seminars/ici/2014/12/05/seminar</guid>
 			</item>
 		
 			<item>
-				<title>Graph-cuts and MRF's in Computer Vision</title>
-				<description>&lt;p&gt;This talk will cover two papers on optimizing Markov random fields in computer vision.&lt;/p&gt;
-
-&lt;p&gt;In Boykov et al.&#39;s influential 2001 PAMI paper, &quot;Fast Approximate Energy Minimization via Graph Cuts,&quot; the authors present two methods for updating large regions of labels simultaneously using graph-cuts: alpha expansion and beta swap.  These methods are both more efficient than single-site update methods, and are more effective at avoiding local minima.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.cs.sfu.ca/CourseCentral/821/li/material/source/Boykov01.pdf&quot;&gt;Download&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Szeliski et al.&#39;s 2008 survey of MRF minimization methods investigates several computer-vision applications, and compares Boykov&#39;s graph-cuts methods against two other techniques: loopy belief propagation and tree re-weighted message passing (TRW-S).  I will focus mostly on the graph-cuts and applications parts of this paper.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://vision.middlebury.edu/MRF/pdf/MRF-PAMI.pdf&quot;&gt;Download&lt;/a&gt;&lt;/p&gt;
+				<title>No session (Thanksgiving)</title>
+				<description>
 </description>
-				<pubDate>Fri, 18 Apr 2014 00:00:00 -0700</pubDate>
-				<link>http://kobus.ca/seminars/ici/2014/04/18/seminar</link>
-				<guid isPermaLink="true">http://kobus.ca/seminars/ici/2014/04/18/seminar</guid>
+				<pubDate>Fri, 28 Nov 2014 00:00:00 -0700</pubDate>
+				<link>http://kobus.ca/seminars/ici/2014/11/28/seminar</link>
+				<guid isPermaLink="true">http://kobus.ca/seminars/ici/2014/11/28/seminar</guid>
 			</item>
 		
 			<item>
-				<title>Efficient Sampling for Gaussian Process Inference using Control Variables</title>
-				<description>&lt;p&gt;Jinyan will present on this recent method for efficiently searching the space of smooth functions using Markov chain Monte Carlo.  She will also provide some background on MCMC and Gaussian Processes.&lt;/p&gt;
+				<title>Big Mechanism practice talks</title>
+				<description>
 </description>
-				<pubDate>Fri, 11 Apr 2014 00:00:00 -0700</pubDate>
-				<link>http://kobus.ca/seminars/ici/2014/04/11/seminar</link>
-				<guid isPermaLink="true">http://kobus.ca/seminars/ici/2014/04/11/seminar</guid>
+				<pubDate>Fri, 21 Nov 2014 00:00:00 -0700</pubDate>
+				<link>http://kobus.ca/seminars/ici/2014/11/21/seminar</link>
+				<guid isPermaLink="true">http://kobus.ca/seminars/ici/2014/11/21/seminar</guid>
 			</item>
 		
 			<item>
-				<title>GrabCut — Interactive Foreground Extraction using Iterated Graph Cuts</title>
-				<description>&lt;h2&gt;Other resources&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://research.microsoft.com/en-us/um/cambridge/projects/visionimagevideoediting/segmentation/grabcut.htm&quot;&gt;Project website&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Related work: &lt;em&gt;&lt;a href=&quot;http://research.microsoft.com/pubs/67898/eccv04-gmmrf.pdf&quot;&gt;Interactive image segmentation using an adaptive GMMRF model&lt;/a&gt;&lt;/em&gt; [pdf]&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;&lt;a href=&quot;http://www.ecommons.cornell.edu/bitstream/1813/5842/1/2001-1857.pdf&quot;&gt;What energy functions can be minimized via graph cuts?&lt;/a&gt;&lt;/em&gt; [pdf]  - Seminal work on graph cuts in computer vision&lt;/li&gt;
-&lt;/ul&gt;
-
+				<title>No Session (CVPR deadline)</title>
+				<description>
 </description>
-				<pubDate>Fri, 04 Apr 2014 00:00:00 -0700</pubDate>
-				<link>http://kobus.ca/seminars/ici/2014/04/04/seminar</link>
-				<guid isPermaLink="true">http://kobus.ca/seminars/ici/2014/04/04/seminar</guid>
+				<pubDate>Fri, 14 Nov 2014 00:00:00 -0700</pubDate>
+				<link>http://kobus.ca/seminars/ici/2014/11/14/seminar</link>
+				<guid isPermaLink="true">http://kobus.ca/seminars/ici/2014/11/14/seminar</guid>
 			</item>
 		
 			<item>
-				<title>Fast object segmentation in unconstrained video</title>
-				<description>&lt;h2&gt;Meeting Minutes&lt;/h2&gt;
-
-&lt;p&gt;Discussed next weeks presentation - Ernesto will present next week, Jinyan the following.&lt;/p&gt;
-
-&lt;p&gt;Decided to add grab-cut paper and/or other paper on graph-cut optimization.&lt;/p&gt;
+				<title>No session (CompTies Workshop)</title>
+				<description>
 </description>
-				<pubDate>Fri, 28 Mar 2014 00:00:00 -0700</pubDate>
-				<link>http://kobus.ca/seminars/ici/2014/03/28/seminar</link>
-				<guid isPermaLink="true">http://kobus.ca/seminars/ici/2014/03/28/seminar</guid>
+				<pubDate>Fri, 07 Nov 2014 00:00:00 -0700</pubDate>
+				<link>http://kobus.ca/seminars/ici/2014/11/07/seminar</link>
+				<guid isPermaLink="true">http://kobus.ca/seminars/ici/2014/11/07/seminar</guid>
+			</item>
+		
+			<item>
+				<title>CompTIES practice talk</title>
+				<description>
+</description>
+				<pubDate>Fri, 31 Oct 2014 00:00:00 -0700</pubDate>
+				<link>http://kobus.ca/seminars/ici/2014/10/31/seminar</link>
+				<guid isPermaLink="true">http://kobus.ca/seminars/ici/2014/10/31/seminar</guid>
 			</item>
 		
 			<item>
 				<title>TBD</title>
-				<description>&lt;p&gt;TBD&lt;/p&gt;
+				<description>
 </description>
-				<pubDate>Fri, 14 Mar 2014 00:00:00 -0700</pubDate>
-				<link>http://kobus.ca/seminars/ici/2014/03/14/seminar</link>
-				<guid isPermaLink="true">http://kobus.ca/seminars/ici/2014/03/14/seminar</guid>
+				<pubDate>Fri, 24 Oct 2014 00:00:00 -0700</pubDate>
+				<link>http://kobus.ca/seminars/ici/2014/10/24/seminar</link>
+				<guid isPermaLink="true">http://kobus.ca/seminars/ici/2014/10/24/seminar</guid>
 			</item>
 		
 			<item>
-				<title>The Episolar Constraint: Monocular Shape from Shadow Correspondence</title>
-				<description>&lt;h2&gt;Agenda&lt;/h2&gt;
-
-&lt;p&gt;Qiyam will present this paper from CVPR 2013.&lt;/p&gt;
+				<title>Causal Models</title>
+				<description>
 </description>
-				<pubDate>Fri, 28 Feb 2014 00:00:00 -0700</pubDate>
-				<link>http://kobus.ca/seminars/ici/2014/02/28/seminar</link>
-				<guid isPermaLink="true">http://kobus.ca/seminars/ici/2014/02/28/seminar</guid>
+				<pubDate>Fri, 17 Oct 2014 00:00:00 -0700</pubDate>
+				<link>http://kobus.ca/seminars/ici/2014/10/17/seminar</link>
+				<guid isPermaLink="true">http://kobus.ca/seminars/ici/2014/10/17/seminar</guid>
 			</item>
 		
 			<item>
-				<title>[Cancelled]</title>
-				<description>&lt;p&gt;Today&#39;s talk is cancelled.&lt;/p&gt;
+				<title>Classic papers in distant supervision</title>
+				<description>
 </description>
-				<pubDate>Fri, 14 Feb 2014 00:00:00 -0700</pubDate>
-				<link>http://kobus.ca/seminars/ici/2014/02/14/seminar</link>
-				<guid isPermaLink="true">http://kobus.ca/seminars/ici/2014/02/14/seminar</guid>
+				<pubDate>Fri, 10 Oct 2014 00:00:00 -0700</pubDate>
+				<link>http://kobus.ca/seminars/ici/2014/10/10/seminar</link>
+				<guid isPermaLink="true">http://kobus.ca/seminars/ici/2014/10/10/seminar</guid>
 			</item>
 		
 			<item>
-				<title>Practice Talk - Kyle Simek</title>
-				<description>&lt;p&gt;Kyle Simek will practice his dissertation proposal defense, &quot;Modeling and Inference of Biological Structure with Branching Gaussian Processes&quot; and seek comments and feedback.&lt;/p&gt;
+				<title>S&P</title>
+				<description>
 </description>
-				<pubDate>Fri, 07 Feb 2014 00:00:00 -0700</pubDate>
-				<link>http://kobus.ca/seminars/ici/2014/02/07/seminar</link>
-				<guid isPermaLink="true">http://kobus.ca/seminars/ici/2014/02/07/seminar</guid>
-			</item>
-		
-			<item>
-				<title>Practice Talk - Colin Dawson</title>
-				<description>&lt;p&gt;Colin will give a practice of his job talk and seek feedback.&lt;/p&gt;
-</description>
-				<pubDate>Fri, 31 Jan 2014 00:00:00 -0700</pubDate>
-				<link>http://kobus.ca/seminars/ici/2014/01/31/seminar</link>
-				<guid isPermaLink="true">http://kobus.ca/seminars/ici/2014/01/31/seminar</guid>
+				<pubDate>Fri, 03 Oct 2014 00:00:00 -0700</pubDate>
+				<link>http://kobus.ca/seminars/ici/2014/10/03/seminar</link>
+				<guid isPermaLink="true">http://kobus.ca/seminars/ici/2014/10/03/seminar</guid>
 			</item>
 		
 	</channel>

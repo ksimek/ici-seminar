@@ -4,13 +4,187 @@
  <title>UA Interdisciplinary Computational Intelligence Seminar</title>
  <link href="http://kobus.ca/seminars/ici/atom.xml" rel="self"/>
  <link href="http://kobus.ca/seminars/ici"/>
- <updated>2014-04-28T14:15:30-07:00</updated>
+ <updated>2014-09-02T12:59:52-07:00</updated>
  <id>http://kobus.ca/seminars/ici</id>
  <author>
    <name>ICI Seminar Group</name>
    <email>ksimek@email.arizona.edu</email>
  </author>
 
+ 
+ <entry>
+   <title>Implicit structured light</title>
+   <link href="http://kobus.ca/seminars/ici/2014/12/05/seminar"/>
+   <updated>2014-12-05T00:00:00-07:00</updated>
+   <id>http://kobus.ca/seminars/ici/2014/12/05/seminar</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>No session (Thanksgiving)</title>
+   <link href="http://kobus.ca/seminars/ici/2014/11/28/seminar"/>
+   <updated>2014-11-28T00:00:00-07:00</updated>
+   <id>http://kobus.ca/seminars/ici/2014/11/28/seminar</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Big Mechanism practice talks</title>
+   <link href="http://kobus.ca/seminars/ici/2014/11/21/seminar"/>
+   <updated>2014-11-21T00:00:00-07:00</updated>
+   <id>http://kobus.ca/seminars/ici/2014/11/21/seminar</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>No Session (CVPR deadline)</title>
+   <link href="http://kobus.ca/seminars/ici/2014/11/14/seminar"/>
+   <updated>2014-11-14T00:00:00-07:00</updated>
+   <id>http://kobus.ca/seminars/ici/2014/11/14/seminar</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>No session (CompTies Workshop)</title>
+   <link href="http://kobus.ca/seminars/ici/2014/11/07/seminar"/>
+   <updated>2014-11-07T00:00:00-07:00</updated>
+   <id>http://kobus.ca/seminars/ici/2014/11/07/seminar</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>CompTIES practice talk</title>
+   <link href="http://kobus.ca/seminars/ici/2014/10/31/seminar"/>
+   <updated>2014-10-31T00:00:00-07:00</updated>
+   <id>http://kobus.ca/seminars/ici/2014/10/31/seminar</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>TBD</title>
+   <link href="http://kobus.ca/seminars/ici/2014/10/24/seminar"/>
+   <updated>2014-10-24T00:00:00-07:00</updated>
+   <id>http://kobus.ca/seminars/ici/2014/10/24/seminar</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Causal Models</title>
+   <link href="http://kobus.ca/seminars/ici/2014/10/17/seminar"/>
+   <updated>2014-10-17T00:00:00-07:00</updated>
+   <id>http://kobus.ca/seminars/ici/2014/10/17/seminar</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Classic papers in distant supervision</title>
+   <link href="http://kobus.ca/seminars/ici/2014/10/10/seminar"/>
+   <updated>2014-10-10T00:00:00-07:00</updated>
+   <id>http://kobus.ca/seminars/ici/2014/10/10/seminar</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>S&P</title>
+   <link href="http://kobus.ca/seminars/ici/2014/10/03/seminar"/>
+   <updated>2014-10-03T00:00:00-07:00</updated>
+   <id>http://kobus.ca/seminars/ici/2014/10/03/seminar</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Distant supervision for reading pathways</title>
+   <link href="http://kobus.ca/seminars/ici/2014/09/26/seminar"/>
+   <updated>2014-09-26T00:00:00-07:00</updated>
+   <id>http://kobus.ca/seminars/ici/2014/09/26/seminar</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>TBD (Bayesian Blackboard?)</title>
+   <link href="http://kobus.ca/seminars/ici/2014/09/19/seminar"/>
+   <updated>2014-09-19T00:00:00-07:00</updated>
+   <id>http://kobus.ca/seminars/ici/2014/09/19/seminar</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>A crash course on systems biology</title>
+   <link href="http://kobus.ca/seminars/ici/2014/09/12/seminar"/>
+   <updated>2014-09-12T00:00:00-07:00</updated>
+   <id>http://kobus.ca/seminars/ici/2014/09/12/seminar</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Gaussian Processes as Bayesian Priors for Smoothing and Model Selection</title>
+   <link href="http://kobus.ca/seminars/ici/2014/09/05/seminar"/>
+   <updated>2014-09-05T00:00:00-07:00</updated>
+   <id>http://kobus.ca/seminars/ici/2014/09/05/seminar</id>
+   <content type="html">&lt;p&gt;In this session, I will give an introduction to Gaussian Processes as Bayesian smoothing priors, using the applications of 3D reconstruction and multiple target tracking as motivating examples.  After a brief overview of Gaussian processes, I will show how simple Gaussian Processes can be combined into complex models of geometry, motion, and noise.  Such models can be applied in several interesting ways.  Probabilistic smoothing is accomplished by applying Bayes&#39; rule to obtain a posterior distribution over smooth curves that are well supported by the observations.   Alternatively, by integrating over all possible smooth curves, we can perform training and model selection.  We will show how these strategies can be applied to the tracking and 3D reconstruction problems, and will discuss some approximations which are necessary to make these strategies tractible.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Fall Planning Session</title>
+   <link href="http://kobus.ca/seminars/ici/2014/08/29/seminar"/>
+   <updated>2014-08-29T00:00:00-07:00</updated>
+   <id>http://kobus.ca/seminars/ici/2014/08/29/seminar</id>
+   <content type="html">&lt;p&gt;The following schedule was proposed:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;September 
+-------------
+
+05  Kyle on GP and applications 
+
+12  Ryan Gutenkunst --- a crash course on systems biology
+
+19  Clay (tentatively BB). 
+
+26  Marco Valenzuela (distant supervision for reading pathways)
+
+
+October 
+-------------
+
+03  Colin (S&amp;amp;P) 
+
+10  Mihai and Marco  (classic papers in distant supervision) 
+
+17  David Sidi (causal models) 
+
+24  TBA
+
+31  Kobus. CompTIES practice talk
+
+November 
+-------------
+
+07  Skip due to CompTIES workshop
+
+14  Skip due to CVPR
+
+21  Big Mechanism practice talks
+
+28  Skip due to Thanksgiving
+
+05  Kate on implicit structured light
+&lt;/code&gt;&lt;/pre&gt;
+</content>
+ </entry>
  
  <entry>
    <title>From Large Scale Image Categorization to Entry-Level Categories</title>
