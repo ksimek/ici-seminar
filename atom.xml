@@ -4,7 +4,7 @@
  <title>UA Interdisciplinary Computational Intelligence Seminar</title>
  <link href="http://kobus.ca/seminars/ici/atom.xml" rel="self"/>
  <link href="http://kobus.ca/seminars/ici"/>
- <updated>2014-09-02T12:59:52-07:00</updated>
+ <updated>2014-09-02T13:08:08-07:00</updated>
  <id>http://kobus.ca/seminars/ici</id>
  <author>
    <name>ICI Seminar Group</name>
@@ -134,7 +134,7 @@
    <link href="http://kobus.ca/seminars/ici/2014/09/05/seminar"/>
    <updated>2014-09-05T00:00:00-07:00</updated>
    <id>http://kobus.ca/seminars/ici/2014/09/05/seminar</id>
-   <content type="html">&lt;p&gt;In this session, I will give an introduction to Gaussian Processes as Bayesian smoothing priors, using the applications of 3D reconstruction and multiple target tracking as motivating examples.  After a brief overview of Gaussian processes, I will show how simple Gaussian Processes can be combined into complex models of geometry, motion, and noise.  Such models can be applied in several interesting ways.  Probabilistic smoothing is accomplished by applying Bayes&#39; rule to obtain a posterior distribution over smooth curves that are well supported by the observations.   Alternatively, by integrating over all possible smooth curves, we can perform training and model selection.  We will show how these strategies can be applied to the tracking and 3D reconstruction problems, and will discuss some approximations which are necessary to make these strategies tractible.&lt;/p&gt;
+   <content type="html">&lt;p&gt;In this session, I will give an introduction to Gaussian Processes as Bayesian smoothing priors, using the applications of 3D reconstruction and multiple target tracking as motivating examples.  After a brief overview of Gaussian processes, I will show how simple Gaussian Processes can be combined into complex models of geometry, motion, and noise.  Such models can be applied in several interesting ways.  Probabilistic smoothing is accomplished by applying Bayes&#39; rule to obtain a posterior distribution over smooth curves that are well supported by the observations.   Alternatively, by integrating over all possible smooth curves, we can perform training and model selection.  We will show how these strategies can be applied to the tracking and 3D reconstruction problems, and will discuss some approximations which are necessary to make these strategies tractable.&lt;/p&gt;
 </content>
  </entry>
  
