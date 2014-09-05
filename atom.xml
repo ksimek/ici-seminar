@@ -4,7 +4,7 @@
  <title>UA Interdisciplinary Computational Intelligence Seminar</title>
  <link href="http://kobus.ca/seminars/ici/atom.xml" rel="self"/>
  <link href="http://kobus.ca/seminars/ici"/>
- <updated>2014-09-03T12:19:25-07:00</updated>
+ <updated>2014-09-05T16:21:31-07:00</updated>
  <id>http://kobus.ca/seminars/ici</id>
  <author>
    <name>ICI Seminar Group</name>
@@ -135,6 +135,16 @@
    <updated>2014-09-05T00:00:00-07:00</updated>
    <id>http://kobus.ca/seminars/ici/2014/09/05/seminar</id>
    <content type="html">&lt;p&gt;In this session, I will give an introduction to Gaussian Processes as Bayesian smoothing priors, using the applications of 3D reconstruction and multiple target tracking as motivating examples.  After a brief overview of Gaussian processes, I will show how simple Gaussian Processes can be combined into complex models of geometry, motion, and noise.  Such models can be applied in several interesting ways.  Probabilistic smoothing is accomplished by applying Bayes&#39; rule to obtain a posterior distribution over smooth curves that are well supported by the observations.   Alternatively, by integrating over all possible smooth curves, we can perform training and model selection.  We will show how these strategies can be applied to the tracking and 3D reconstruction problems, and will discuss some approximations which are necessary to make these strategies tractable.&lt;/p&gt;
+
+&lt;h2&gt;Files&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;/seminars/ici/docs/gp_talk.zip&quot;&gt;Slides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/seminars/ici/docs/demo_01_white_noise.m&quot;&gt;demo 1 - sampling rough function &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/seminars/ici/docs/demo_02_smooth.m&quot;&gt;demo 2 - sampling smooth function&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/seminars/ici/docs/demo_03_inference.m&quot;&gt;demo 3 - inference/smoothing&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
 </content>
  </entry>
  
