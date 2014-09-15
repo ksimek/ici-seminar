@@ -4,7 +4,7 @@
  <title>UA Interdisciplinary Computational Intelligence Seminar</title>
  <link href="http://kobus.ca/seminars/ici/atom.xml" rel="self"/>
  <link href="http://kobus.ca/seminars/ici"/>
- <updated>2014-09-09T12:36:41-07:00</updated>
+ <updated>2014-09-15T14:56:41-07:00</updated>
  <id>http://kobus.ca/seminars/ici</id>
  <author>
    <name>ICI Seminar Group</name>
@@ -67,7 +67,7 @@
  </entry>
  
  <entry>
-   <title>TBD</title>
+   <title>Classic papers in distant supervision</title>
    <link href="http://kobus.ca/seminars/ici/2014/10/24/seminar"/>
    <updated>2014-10-24T00:00:00-07:00</updated>
    <id>http://kobus.ca/seminars/ici/2014/10/24/seminar</id>
@@ -85,7 +85,7 @@
  </entry>
  
  <entry>
-   <title>Classic papers in distant supervision</title>
+   <title>Scenes and Captions</title>
    <link href="http://kobus.ca/seminars/ici/2014/10/10/seminar"/>
    <updated>2014-10-10T00:00:00-07:00</updated>
    <id>http://kobus.ca/seminars/ici/2014/10/10/seminar</id>
@@ -94,11 +94,11 @@
  </entry>
  
  <entry>
-   <title>Scenes and Captions</title>
+   <title>An interactive introduction to the systems biology of cancer (part 2)</title>
    <link href="http://kobus.ca/seminars/ici/2014/10/03/seminar"/>
    <updated>2014-10-03T00:00:00-07:00</updated>
    <id>http://kobus.ca/seminars/ici/2014/10/03/seminar</id>
-   <content type="html">
+   <content type="html">&lt;p&gt;This will be the continuation of &lt;a href=&quot;/seminars/ici/2014/09/12/seminar/&quot;&gt;the September 12 talk&lt;/a&gt;.&lt;/p&gt;
 </content>
  </entry>
  
@@ -112,7 +112,7 @@
  </entry>
  
  <entry>
-   <title>TBD (Bayesian Blackboard?)</title>
+   <title>An informal tutorial on coding for massively parallel systems</title>
    <link href="http://kobus.ca/seminars/ici/2014/09/19/seminar"/>
    <updated>2014-09-19T00:00:00-07:00</updated>
    <id>http://kobus.ca/seminars/ici/2014/09/19/seminar</id>
