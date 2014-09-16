@@ -4,7 +4,7 @@
  <title>UA Interdisciplinary Computational Intelligence Seminar</title>
  <link href="http://kobus.ca/seminars/ici/atom.xml" rel="self"/>
  <link href="http://kobus.ca/seminars/ici"/>
- <updated>2014-09-15T15:09:24-07:00</updated>
+ <updated>2014-09-16T09:27:40-07:00</updated>
  <id>http://kobus.ca/seminars/ici</id>
  <author>
    <name>ICI Seminar Group</name>
@@ -67,7 +67,7 @@
  </entry>
  
  <entry>
-   <title>Classic papers in distant supervision</title>
+   <title>Scenes and Captions</title>
    <link href="http://kobus.ca/seminars/ici/2014/10/24/seminar"/>
    <updated>2014-10-24T00:00:00-07:00</updated>
    <id>http://kobus.ca/seminars/ici/2014/10/24/seminar</id>
@@ -85,7 +85,7 @@
  </entry>
  
  <entry>
-   <title>Scenes and Captions</title>
+   <title>Classic papers in distant supervision</title>
    <link href="http://kobus.ca/seminars/ici/2014/10/10/seminar"/>
    <updated>2014-10-10T00:00:00-07:00</updated>
    <id>http://kobus.ca/seminars/ici/2014/10/10/seminar</id>
