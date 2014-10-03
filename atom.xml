@@ -4,7 +4,11 @@
  <title>UA Interdisciplinary Computational Intelligence Seminar</title>
  <link href="http://kobus.ca/seminars/ici/atom.xml" rel="self"/>
  <link href="http://kobus.ca/seminars/ici"/>
+<<<<<<< HEAD
  <updated>2014-10-02T21:02:28-07:00</updated>
+=======
+ <updated>2014-09-22T14:07:49-07:00</updated>
+>>>>>>> 32938d2d76fd64ba61e91c61f36367e04ad7ac9d
  <id>http://kobus.ca/seminars/ici</id>
  <author>
    <name>ICI Seminar Group</name>
@@ -134,7 +138,11 @@
    <link href="http://kobus.ca/seminars/ici/2014/09/05/seminar"/>
    <updated>2014-09-05T00:00:00-07:00</updated>
    <id>http://kobus.ca/seminars/ici/2014/09/05/seminar</id>
+<<<<<<< HEAD
    <content type="html">&lt;p&gt;In this session, I will give an introduction to Gaussian Processes as Bayesian smoothing priors, using the applications of 3D reconstruction and multiple target tracking as motivating examples.  After a brief overview of Gaussian processes, I will show how simple Gaussian Processes can be combined into complex models of geometry, motion, and noise.  Such models can be applied in several interesting ways.  Probabilistic smoothing is accomplished by applying Bayes' rule to obtain a posterior distribution over smooth curves that are well supported by the observations.   Alternatively, by integrating over all possible smooth curves, we can perform training and model selection.  We will show how these strategies can be applied to the tracking and 3D reconstruction problems, and will discuss some approximations which are necessary to make these strategies tractable.&lt;/p&gt;
+=======
+   <content type="html">&lt;p&gt;In this session, I will give an introduction to Gaussian Processes as Bayesian smoothing priors, using the applications of 3D reconstruction and multiple target tracking as motivating examples.  After a brief overview of Gaussian processes, I will show how simple Gaussian Processes can be combined into complex models of geometry, motion, and noise.  Such models can be applied in several interesting ways.  Probabilistic smoothing is accomplished by applying Bayes&#39; rule to obtain a posterior distribution over smooth curves that are well supported by the observations.   Alternatively, by integrating over all possible smooth curves, we can perform training and model selection.  We will show how these strategies can be applied to the tracking and 3D reconstruction problems, and will discuss some approximations which are necessary to make these strategies tractable.&lt;/p&gt;
+>>>>>>> 32938d2d76fd64ba61e91c61f36367e04ad7ac9d
 
 &lt;h2&gt;Files&lt;/h2&gt;
 
@@ -212,13 +220,21 @@ November
    <id>http://kobus.ca/seminars/ici/2014/04/18/seminar</id>
    <content type="html">&lt;p&gt;This talk will cover two papers on optimizing Markov random fields in computer vision.&lt;/p&gt;
 
+<<<<<<< HEAD
 &lt;p&gt;In Boykov et al.'s influential 2001 PAMI paper, &quot;Fast Approximate Energy Minimization via Graph Cuts,&quot; the authors present two methods for updating large regions of labels simultaneously using graph-cuts: alpha expansion and beta swap.  These methods are both more efficient than single-site update methods, and are more effective at avoiding local minima.&lt;/p&gt;
+=======
+&lt;p&gt;In Boykov et al.&#39;s influential 2001 PAMI paper, &quot;Fast Approximate Energy Minimization via Graph Cuts,&quot; the authors present two methods for updating large regions of labels simultaneously using graph-cuts: alpha expansion and beta swap.  These methods are both more efficient than single-site update methods, and are more effective at avoiding local minima.&lt;/p&gt;
+>>>>>>> 32938d2d76fd64ba61e91c61f36367e04ad7ac9d
 
 &lt;p&gt;&lt;a href=&quot;http://www.cs.sfu.ca/CourseCentral/821/li/material/source/Boykov01.pdf&quot;&gt;Download&lt;/a&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
+<<<<<<< HEAD
 &lt;p&gt;Szeliski et al.'s 2008 survey of MRF minimization methods investigates several computer-vision applications, and compares Boykov's graph-cuts methods against two other techniques: loopy belief propagation and tree re-weighted message passing (TRW-S).  I will focus mostly on the graph-cuts and applications parts of this paper.&lt;/p&gt;
+=======
+&lt;p&gt;Szeliski et al.&#39;s 2008 survey of MRF minimization methods investigates several computer-vision applications, and compares Boykov&#39;s graph-cuts methods against two other techniques: loopy belief propagation and tree re-weighted message passing (TRW-S).  I will focus mostly on the graph-cuts and applications parts of this paper.&lt;/p&gt;
+>>>>>>> 32938d2d76fd64ba61e91c61f36367e04ad7ac9d
 
 &lt;p&gt;&lt;a href=&quot;http://vision.middlebury.edu/MRF/pdf/MRF-PAMI.pdf&quot;&gt;Download&lt;/a&gt;&lt;/p&gt;
 </content>
