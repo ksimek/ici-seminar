@@ -1,0 +1,190 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+   <title>GrabCut — Interactive Foreground Extraction using Iterated Graph Cuts </title>
+   <meta name="author" content="ICI Seminar Group" />
+
+   <link rel="start" href="/seminars/ici/" />
+
+	
+	
+    <link rel="shortcut icon" href="/seminars/ici/favicon.ico">
+
+	
+	
+
+   <!-- syntax highlighting CSS -->
+   <link rel="stylesheet" href="/seminars/ici/assets/themes/mark-reid/css/syntax.css" type="text/css" />
+
+   <!-- Jquery UI CSS --!>
+   <link media="screen" rel="stylesheet" href="/seminars/ici/css/ui-smoothness/jquery-ui-1.8.22.custom.css" type="text/css" />
+
+   <!-- Homepage CSS -->
+   <link media="screen" rel="stylesheet" href="/seminars/ici/assets/themes/mark-reid/css/screen.css" type="text/css" />
+
+   <!-- Handheld CSS -->
+   <link media="handheld, only screen and (max-width: 480px), only screen and (max-device-width: 480px)" href="/seminars/ici/assets/themes/mark-reid/css/handheld.css" type="text/css" rel="stylesheet" />
+
+
+<!--[if IEMobile]>
+<link rel="stylesheet" type="text/css" href="/seminars/ici/assets/themes/mark-reid/css/handheld.css" media="screen" />
+<![endif]-->
+
+   <!-- Mathjax Javascript -->
+   <script type="text/javascript"
+     src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+   </script>
+
+</head>
+<body id="">
+<div id="site">
+  
+  <div id="header">
+    <h1>
+    	<a href="/seminars/ici/" title="UA Interdisciplinary Computational Intelligence Seminar">UA Interdisciplinary Computational Intelligence Seminar</a>
+    	</span>
+    </h1>
+    <ul class="nav">
+      <li><a class="home" href="/seminars/ici/">Home</a></li>
+      <li><a href="/seminars/ici/about.html">About</a></li>
+      <li><a href="/seminars/ici/contact.html">Contact</a></li>
+      <li><a  href="/seminars/ici/archive.html">Archive</a></li>
+      <li><a  href="/seminars/ici/feeds.html"><img src="/seminars/ici/img/feed-icon.gif" /></a></li> 
+
+    </ul>
+  </div>
+
+
+  
+<div id="page" class="article">
+	
+  
+  
+  <h1 class="title">GrabCut — Interactive Foreground Extraction using Iterated Graph Cuts</h1>
+
+
+  <div class="author">Carsten Rother, Vladimir Kolmogorov, Andrew Blake</div>
+  <div class="presenter">Presented by Ernesto Brau</div>
+
+  <div class="date emphnext">April 04, 2014</div>
+    
+
+  
+  <h1>Abstract</h1>
+  <p class="abstract">
+    The problem of efficient, interactive foreground/background seg- mentation in still images is of great practical importance in im- age editing. Classical image segmentation tools use either texture (colour) information, e.g. Magic Wand, or edge (contrast) infor- mation, e.g. Intelligent Scissors. Recently, an approach based on optimization by graph-cut has been developed which successfully combines both types of information. In this paper we extend the graph-cut approach in three respects. First, we have developed a more powerful, iterative version of the optimisation. Secondly, the power of the iterative algorithm is used to simplify substantially the user interaction needed for a given quality of result. Thirdly, a robust algorithm for border matting has been developed to estimate simultaneously the alpha-matte around an object boundary and the colours of foreground pixels. We show that for moderately difficult examples the proposed method outperforms competitive tools.
+  </p>
+    
+    <p>
+    <strong>Download:</strong> <a href="http://research.microsoft.com/pubs/67890/siggraph04-grabcut.pdf">Reference link</a>
+    </p>
+    
+
+
+
+  
+    <h2>Other resources</h2>
+
+<ul>
+<li><a href="http://research.microsoft.com/en-us/um/cambridge/projects/visionimagevideoediting/segmentation/grabcut.htm">Project website</a></li>
+<li>Related work: <em><a href="http://research.microsoft.com/pubs/67898/eccv04-gmmrf.pdf">Interactive image segmentation using an adaptive GMMRF model</a></em> [pdf]</li>
+<li><em><a href="http://www.ecommons.cornell.edu/bitstream/1813/5842/1/2001-1857.pdf">What energy functions can be minimized via graph cuts?</a></em> [pdf]  - Seminal work on graph cuts in computer vision</li>
+</ul>
+
+
+      <address class="signature">
+        Posted by
+        <a class="author" href="/seminars/ici/">
+  
+ICI Seminar Group
+  
+</a> 
+      </address>
+  
+
+
+  
+  
+  <div class="prev-next">
+    <a href="/seminars/ici/2014/04/11/seminar" class="next" title="Efficient Sampling for Gaussian Process Inference using Control Variables">Efficient Sampling for Gaussian Process Inference using Control Variables &rarr;</a>
+  
+  
+    <a href="/seminars/ici/2014/03/28/seminar" class="prev" title="Fast object segmentation in unconstrained video">&larr; Fast object segmentation in unconstrained video</a>
+  
+  </div>
+  <div class="clearer"> </div>
+
+<div class="post-sharing">
+ 
+
+</div>
+
+
+
+
+  <div id="disqus_thread"></div>
+<script type="text/javascript">
+    var disqus_developer = 1;
+    var disqus_shortname = 'ici-seminar'; // required: replace example with your forum shortname
+    
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+
+
+
+
+  
+</div><!-- End Page -->
+
+
+
+  
+  <div id="footer">
+  	<address>
+  		<span class="copyright">
+  			Content by <a href="/seminars/ici/about.html">ICI Seminar Group</a>. Original design by 
+  			<a href="http://mark.reid.name/">Mark Reid</a>
+  			<br/>
+  			(<a rel="licence" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Some rights reserved</a>)			
+  		</span>
+  		<span class="engine">
+  			Powered by <a href="http://github.com/mojombo/jekyll/" title="A static, minimalist CMS">Jekyll</a>
+  		</span>
+  	</address>
+  </div>
+  
+</div>
+
+
+  
+
+
+  <script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-33692744-3']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+
+
+
+</body>
+</html>
+
